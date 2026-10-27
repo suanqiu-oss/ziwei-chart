@@ -1,0 +1,1061 @@
+{
+ "schema": "golden_ziwei_calendar.v1",
+ "cases": [
+  {
+   "id": "19840615T1030_solar_男",
+   "args": {
+    "year": 1984,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "甲子庚午庚辰辛巳",
+    "lunar_date_str": "1984-05-16 10:15:14",
+    "true_solar_time": "1984-06-15 10:15:14",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19840615T1030_solar_女",
+   "args": {
+    "year": 1984,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "甲子庚午庚辰辛巳",
+    "lunar_date_str": "1984-05-16 10:15:14",
+    "true_solar_time": "1984-06-15 10:15:14",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19850615T1030_plain_男",
+   "args": {
+    "year": 1985,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "乙丑壬午乙酉辛巳",
+    "lunar_date_str": "1985-04-27 10:30:00",
+    "true_solar_time": "1985-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19850615T1030_plain_女",
+   "args": {
+    "year": 1985,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "乙丑壬午乙酉辛巳",
+    "lunar_date_str": "1985-04-27 10:30:00",
+    "true_solar_time": "1985-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19860615T1030_solar_男",
+   "args": {
+    "year": 1986,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "丙寅甲午庚寅辛巳",
+    "lunar_date_str": "1986-05-09 09:15:19",
+    "true_solar_time": "1986-06-15 09:15:19",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19860615T1030_solar_女",
+   "args": {
+    "year": 1986,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "丙寅甲午庚寅辛巳",
+    "lunar_date_str": "1986-05-09 09:15:19",
+    "true_solar_time": "1986-06-15 09:15:19",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19870615T1030_plain_男",
+   "args": {
+    "year": 1987,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "丁卯丙午乙未辛巳",
+    "lunar_date_str": "1987-05-20 10:30:00",
+    "true_solar_time": "1987-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19870615T1030_plain_女",
+   "args": {
+    "year": 1987,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "丁卯丙午乙未辛巳",
+    "lunar_date_str": "1987-05-20 10:30:00",
+    "true_solar_time": "1987-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19880615T1030_solar_男",
+   "args": {
+    "year": 1988,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "戊辰戊午辛丑癸巳",
+    "lunar_date_str": "1988-05-02 09:15:12",
+    "true_solar_time": "1988-06-15 09:15:12",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19880615T1030_solar_女",
+   "args": {
+    "year": 1988,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "戊辰戊午辛丑癸巳",
+    "lunar_date_str": "1988-05-02 09:15:12",
+    "true_solar_time": "1988-06-15 09:15:12",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19890615T1030_plain_男",
+   "args": {
+    "year": 1989,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "己巳庚午丙午癸巳",
+    "lunar_date_str": "1989-05-12 10:30:00",
+    "true_solar_time": "1989-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19890615T1030_plain_女",
+   "args": {
+    "year": 1989,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "己巳庚午丙午癸巳",
+    "lunar_date_str": "1989-05-12 10:30:00",
+    "true_solar_time": "1989-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19900615T1030_solar_男",
+   "args": {
+    "year": 1990,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "庚午壬午辛亥癸巳",
+    "lunar_date_str": "1990-05-23 09:15:19",
+    "true_solar_time": "1990-06-15 09:15:19",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19900615T1030_solar_女",
+   "args": {
+    "year": 1990,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "庚午壬午辛亥癸巳",
+    "lunar_date_str": "1990-05-23 09:15:19",
+    "true_solar_time": "1990-06-15 09:15:19",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19910615T1030_plain_男",
+   "args": {
+    "year": 1991,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "辛未甲午丙辰癸巳",
+    "lunar_date_str": "1991-05-04 10:30:00",
+    "true_solar_time": "1991-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19910615T1030_plain_女",
+   "args": {
+    "year": 1991,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "辛未甲午丙辰癸巳",
+    "lunar_date_str": "1991-05-04 10:30:00",
+    "true_solar_time": "1991-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19920615T1030_solar_男",
+   "args": {
+    "year": 1992,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "壬申丙午壬戌乙巳",
+    "lunar_date_str": "1992-05-15 10:15:12",
+    "true_solar_time": "1992-06-15 10:15:12",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19920615T1030_solar_女",
+   "args": {
+    "year": 1992,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "壬申丙午壬戌乙巳",
+    "lunar_date_str": "1992-05-15 10:15:12",
+    "true_solar_time": "1992-06-15 10:15:12",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19930615T1030_plain_男",
+   "args": {
+    "year": 1993,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "癸酉戊午丁卯乙巳",
+    "lunar_date_str": "1993-04-26 10:30:00",
+    "true_solar_time": "1993-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19930615T1030_plain_女",
+   "args": {
+    "year": 1993,
+    "month": 6,
+    "day": 15,
+    "hour": 10,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "癸酉戊午丁卯乙巳",
+    "lunar_date_str": "1993-04-26 10:30:00",
+    "true_solar_time": "1993-06-15 10:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19810404T1000_solar_男",
+   "args": {
+    "year": 1981,
+    "month": 4,
+    "day": 4,
+    "hour": 10,
+    "minute": 0,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "辛酉辛卯壬子乙巳",
+    "lunar_date_str": "1981-02-30 09:42:31",
+    "true_solar_time": "1981-04-04 09:42:31",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19810404T1000_solar_女",
+   "args": {
+    "year": 1981,
+    "month": 4,
+    "day": 4,
+    "hour": 10,
+    "minute": 0,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "辛酉辛卯壬子乙巳",
+    "lunar_date_str": "1981-02-30 09:42:31",
+    "true_solar_time": "1981-04-04 09:42:31",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19810404T2340_plain_男",
+   "args": {
+    "year": 1981,
+    "month": 4,
+    "day": 4,
+    "hour": 23,
+    "minute": 40,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "辛酉辛卯癸丑壬子",
+    "lunar_date_str": "1981-02-30 23:40:00",
+    "true_solar_time": "1981-04-04 23:40:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19810404T2340_plain_女",
+   "args": {
+    "year": 1981,
+    "month": 4,
+    "day": 4,
+    "hour": 23,
+    "minute": 40,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "辛酉辛卯癸丑壬子",
+    "lunar_date_str": "1981-02-30 23:40:00",
+    "true_solar_time": "1981-04-04 23:40:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19820324T1000_solar_男",
+   "args": {
+    "year": 1982,
+    "month": 3,
+    "day": 24,
+    "hour": 10,
+    "minute": 0,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "壬戌癸卯丙午癸巳",
+    "lunar_date_str": "1982-02-29 09:39:09",
+    "true_solar_time": "1982-03-24 09:39:09",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19820324T1000_solar_女",
+   "args": {
+    "year": 1982,
+    "month": 3,
+    "day": 24,
+    "hour": 10,
+    "minute": 0,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "壬戌癸卯丙午癸巳",
+    "lunar_date_str": "1982-02-29 09:39:09",
+    "true_solar_time": "1982-03-24 09:39:09",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19890709T2315_plain_男",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 9,
+    "hour": 23,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "己巳辛未辛未戊子",
+    "lunar_date_str": "1989-06-07 23:15:00",
+    "true_solar_time": "1989-07-09 23:15:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19890709T2315_plain_女",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 9,
+    "hour": 23,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "己巳辛未辛未戊子",
+    "lunar_date_str": "1989-06-07 23:15:00",
+    "true_solar_time": "1989-07-09 23:15:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19890709T2359_solar_男",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 9,
+    "hour": 23,
+    "minute": 59,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "己巳辛未庚午丁亥",
+    "lunar_date_str": "1989-06-07 22:39:29",
+    "true_solar_time": "1989-07-09 22:39:29",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19890709T2359_solar_女",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 9,
+    "hour": 23,
+    "minute": 59,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "己巳辛未庚午丁亥",
+    "lunar_date_str": "1989-06-07 22:39:29",
+    "true_solar_time": "1989-07-09 22:39:29",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19890710T0015_plain_男",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 10,
+    "hour": 0,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "己巳辛未辛未戊子",
+    "lunar_date_str": "1989-06-08 00:15:00",
+    "true_solar_time": "1989-07-10 00:15:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19890710T0015_plain_女",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 10,
+    "hour": 0,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "己巳辛未辛未戊子",
+    "lunar_date_str": "1989-06-08 00:15:00",
+    "true_solar_time": "1989-07-10 00:15:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19890710T0059_solar_男",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 10,
+    "hour": 0,
+    "minute": 59,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "己巳辛未壬申庚子",
+    "lunar_date_str": "1989-06-08 23:39:29",
+    "true_solar_time": "1989-07-10 23:39:29",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19890710T0059_solar_女",
+   "args": {
+    "year": 1989,
+    "month": 7,
+    "day": 10,
+    "hour": 0,
+    "minute": 59,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "己巳辛未壬申庚子",
+    "lunar_date_str": "1989-06-08 23:39:29",
+    "true_solar_time": "1989-07-10 23:39:29",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20231231T2330_plain_男",
+   "args": {
+    "year": 2023,
+    "month": 12,
+    "day": 31,
+    "hour": 23,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "癸卯甲子甲子甲子",
+    "lunar_date_str": "2023-11-19 23:30:00",
+    "true_solar_time": "2023-12-31 23:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "20231231T2330_plain_女",
+   "args": {
+    "year": 2023,
+    "month": 12,
+    "day": 31,
+    "hour": 23,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "癸卯甲子甲子甲子",
+    "lunar_date_str": "2023-11-19 23:30:00",
+    "true_solar_time": "2023-12-31 23:30:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "20240101T0030_solar_男",
+   "args": {
+    "year": 2024,
+    "month": 1,
+    "day": 1,
+    "hour": 0,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "癸卯甲子甲子甲子",
+    "lunar_date_str": "2023-11-20 00:12:27",
+    "true_solar_time": "2024-01-01 00:12:27",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20240101T0030_solar_女",
+   "args": {
+    "year": 2024,
+    "month": 1,
+    "day": 1,
+    "hour": 0,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "癸卯甲子甲子甲子",
+    "lunar_date_str": "2023-11-20 00:12:27",
+    "true_solar_time": "2024-01-01 00:12:27",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20240204T1000_plain_女",
+   "args": {
+    "year": 2024,
+    "month": 2,
+    "day": 4,
+    "hour": 10,
+    "minute": 0,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "癸卯乙丑戊戌丁巳",
+    "lunar_date_str": "2023-12-25 10:00:00",
+    "true_solar_time": "2024-02-04 10:00:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "20240204T2000_solar_女",
+   "args": {
+    "year": 2024,
+    "month": 2,
+    "day": 4,
+    "hour": 20,
+    "minute": 0,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "甲辰丙寅戊戌壬戌",
+    "lunar_date_str": "2023-12-25 19:31:49",
+    "true_solar_time": "2024-02-04 19:31:49",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20250203T1200_plain_女",
+   "args": {
+    "year": 2025,
+    "month": 2,
+    "day": 3,
+    "hour": 12,
+    "minute": 0,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "甲辰丁丑癸卯戊午",
+    "lunar_date_str": "2025-01-06 12:00:00",
+    "true_solar_time": "2025-02-03 12:00:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "20040425T0920_solar_女",
+   "args": {
+    "year": 2004,
+    "month": 4,
+    "day": 25,
+    "hour": 9,
+    "minute": 20,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "甲申戊辰甲戌己巳",
+    "lunar_date_str": "2004-03-07 09:07:40",
+    "true_solar_time": "2004-04-25 09:07:40",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20001003T1520_plain_女",
+   "args": {
+    "year": 2000,
+    "month": 10,
+    "day": 3,
+    "hour": 15,
+    "minute": 20,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "庚辰乙酉甲午壬申",
+    "lunar_date_str": "2000-09-06 15:20:00",
+    "true_solar_time": "2000-10-03 15:20:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19980220T1130_solar_女",
+   "args": {
+    "year": 1998,
+    "month": 2,
+    "day": 20,
+    "hour": 11,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "戊寅甲寅戊戌戊午",
+    "lunar_date_str": "1998-01-24 11:01:51",
+    "true_solar_time": "1998-02-20 11:01:51",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "19710908T1805_plain_女",
+   "args": {
+    "year": 1971,
+    "month": 9,
+    "day": 8,
+    "hour": 18,
+    "minute": 5,
+    "second": 0,
+    "coords": null
+   },
+   "expected": {
+    "bazi": "辛亥丁酉丙申丁酉",
+    "lunar_date_str": "1971-07-19 18:05:00",
+    "true_solar_time": "1971-09-08 18:05:00",
+    "timezone": "Etc/GMT-8"
+   }
+  },
+  {
+   "id": "19710908T1805_solar_女",
+   "args": {
+    "year": 1971,
+    "month": 9,
+    "day": 8,
+    "hour": 18,
+    "minute": 5,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "辛亥丁酉丙申丁酉",
+    "lunar_date_str": "1971-07-19 17:52:41",
+    "true_solar_time": "1971-09-08 17:52:41",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20230405T1440_solar_男",
+   "args": {
+    "year": 2023,
+    "month": 4,
+    "day": 5,
+    "hour": 14,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "癸卯丙辰癸巳己未",
+    "lunar_date_str": "2023-02-15 14:22:46",
+    "true_solar_time": "2023-04-05 14:22:46",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20230405T1440_solar_女",
+   "args": {
+    "year": 2023,
+    "month": 4,
+    "day": 5,
+    "hour": 14,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "癸卯丙辰癸巳己未",
+    "lunar_date_str": "2023-02-15 14:22:46",
+    "true_solar_time": "2023-04-05 14:22:46",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20200611T1440_solar_男",
+   "args": {
+    "year": 2020,
+    "month": 6,
+    "day": 11,
+    "hour": 14,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "庚子壬午乙酉癸未",
+    "lunar_date_str": "2020-04-20 14:25:56",
+    "true_solar_time": "2020-06-11 14:25:56",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20200611T1440_solar_女",
+   "args": {
+    "year": 2020,
+    "month": 6,
+    "day": 11,
+    "hour": 14,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "庚子壬午乙酉癸未",
+    "lunar_date_str": "2020-04-20 14:25:56",
+    "true_solar_time": "2020-06-11 14:25:56",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20250801T1440_solar_男",
+   "args": {
+    "year": 2025,
+    "month": 8,
+    "day": 1,
+    "hour": 14,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "乙巳癸未壬寅丁未",
+    "lunar_date_str": "2025-06-08 14:19:15",
+    "true_solar_time": "2025-08-01 14:19:15",
+    "timezone": "Asia/Shanghai"
+   }
+  },
+  {
+   "id": "20250801T1440_solar_女",
+   "args": {
+    "year": 2025,
+    "month": 8,
+    "day": 1,
+    "hour": 14,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "expected": {
+    "bazi": "乙巳癸未壬寅丁未",
+    "lunar_date_str": "2025-06-08 14:19:15",
+    "true_solar_time": "2025-08-01 14:19:15",
+    "timezone": "Asia/Shanghai"
+   }
+  }
+ ]
+}

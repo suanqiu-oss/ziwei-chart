@@ -1,0 +1,7805 @@
+{
+ "schema": "golden_ziwei_digests.v1",
+ "cases": [
+  {
+   "id": "r000_19390126T2338_男",
+   "args": {
+    "year": 1939,
+    "month": 1,
+    "day": 26,
+    "hour": 23,
+    "minute": 38,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊寅乙丑癸亥癸亥",
+    "lunar_date_str": "1938-12-07 22:58:54",
+    "true_solar_time": "1939-01-26 22:58:54",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "ce08067d5dd23d27d1c534285f03fb3b4e11a6c75c51ff2f5820f593108893a3",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1949,
+     "sha256": "f535edb5afe68cdb5cf607dd6e0ed241ee3a3d97367f2f598efc3a2cee5657be"
+    },
+    {
+     "kind": "yearly",
+     "year": 1969,
+     "sha256": "741b13990470427d08ba94ba6b44c84d351ab335e9d92153a32f93b89b489657"
+    },
+    {
+     "kind": "monthly",
+     "year": 2015,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2015-08-14",
+      "end_date": "2015-09-12",
+      "doujun": "未",
+      "ming_branch": "丑"
+     },
+     "sha256": "109c3952c8a5f02a1b9f76c884c058ca1217d3661b5df6d6d51254f7e8b2569c"
+    }
+   ]
+  },
+  {
+   "id": "r001_19100224T2349_女",
+   "args": {
+    "year": 1910,
+    "month": 2,
+    "day": 24,
+    "hour": 23,
+    "minute": 49,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "庚戌戊寅辛酉戊子",
+    "lunar_date_str": "1910-01-15 23:49:00",
+    "true_solar_time": "1910-02-24 23:49:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "e96911ba8820ecc287574da464aade5999ea182b19ebb7ba0fa9032adfe84bc3",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1928,
+     "sha256": "97de470301f335f6211c19b89f79c4a999fbdd2ff3aa217c800e096b12413839"
+    },
+    {
+     "kind": "yearly",
+     "year": 2010,
+     "sha256": "e8f65cbdaaf17cec2fb1d828b57a9697fcff59735741b87080d3e2b794660f11"
+    },
+    {
+     "kind": "monthly",
+     "year": 2017,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2017-08-22",
+      "end_date": "2017-09-19",
+      "doujun": "酉",
+      "ming_branch": "卯"
+     },
+     "sha256": "235f527f901baf8b2378c5406fb9a4d8839993d6518021fd193c678e180443f9"
+    }
+   ]
+  },
+  {
+   "id": "r002_19830705T0056_女",
+   "args": {
+    "year": 1983,
+    "month": 7,
+    "day": 5,
+    "hour": 0,
+    "minute": 56,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "癸亥戊午甲午甲子",
+    "lunar_date_str": "1983-05-25 00:37:16",
+    "true_solar_time": "1983-07-05 00:37:16",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "b3139fcc8e9b3f622eb3f099186bf43a475bf02895e310d6b2c15cd3ca1f0576",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1991,
+     "sha256": "f8a26c8138ad327a28c4189b33687a6c5b0e7cd9fc576b8d8c6b540bdd2d0a16"
+    },
+    {
+     "kind": "yearly",
+     "year": 2002,
+     "sha256": "07204d1b88641032b1c84d42c30b12c4046e567efcf500baab0ae58a04188893"
+    },
+    {
+     "kind": "monthly",
+     "year": 2037,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2037-12-07",
+      "end_date": "2038-01-04",
+      "doujun": "丑",
+      "ming_branch": "亥"
+     },
+     "sha256": "74912faca807f8c7d7367cde5a87724878a7d8c1de71a8db8096d25b6231e5bc"
+    }
+   ]
+  },
+  {
+   "id": "r003_19480503T2333_女",
+   "args": {
+    "year": 1948,
+    "month": 5,
+    "day": 3,
+    "hour": 23,
+    "minute": 33,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "戊子丙辰己丑甲子",
+    "lunar_date_str": "1948-03-25 23:33:00",
+    "true_solar_time": "1948-05-03 23:33:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "17a085393d81d7e3fef407ab6cc36983d627919ae3ed084077439016b8a08e22",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2027,
+     "sha256": "b7b22f687406280ffefc711032a956db11a1464279619b9dd0d557581f59d19e"
+    },
+    {
+     "kind": "yearly",
+     "year": 1991,
+     "sha256": "04776fd53ff27a79f9ae8a9d4635094183ab315355b3a1a5ec8b9f62ee80687d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2068,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2068-10-26",
+      "end_date": "2068-11-24",
+      "doujun": "戌",
+      "ming_branch": "未"
+     },
+     "sha256": "ff0c5f13bd84ead45b8cce6255e525f1b95adef7eb228ca71878be3b2f413730"
+    }
+   ]
+  },
+  {
+   "id": "r004_19981125T0027_女",
+   "args": {
+    "year": 1998,
+    "month": 11,
+    "day": 25,
+    "hour": 0,
+    "minute": 27,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "戊寅癸亥丙子戊子",
+    "lunar_date_str": "1998-10-07 00:43:57",
+    "true_solar_time": "1998-11-25 00:43:57",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "64369fde2097bc5359daf1364f5d1b885d05d9813de0ebad9fc02b49e2234fad",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2102,
+     "sha256": "a212ab8b314eb09c538e364729e13579bde544bb7caddfccae10ffc5c35a1eb8"
+    },
+    {
+     "kind": "yearly",
+     "year": 2005,
+     "sha256": "ffbe6336ae1c7c1fb133c66c847d9b9e5e0be90911baba561fb7bc858266a48f"
+    },
+    {
+     "kind": "monthly",
+     "year": 2044,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2044-05-27",
+      "end_date": "2044-06-24",
+      "doujun": "卯",
+      "ming_branch": "未"
+     },
+     "sha256": "f104df88b9d0a90140479a5ebee3ce05b1f6a83aec734b5bb733916a34ecf1b5"
+    }
+   ]
+  },
+  {
+   "id": "r005_19501027T0140_男",
+   "args": {
+    "year": 1950,
+    "month": 10,
+    "day": 27,
+    "hour": 1,
+    "minute": 40,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚寅丙戌乙未丁丑",
+    "lunar_date_str": "1950-09-17 01:40:00",
+    "true_solar_time": "1950-10-27 01:40:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "114abb1b96fbb2c98a84ba76b33a9364edd0fa8bc8705653f57f06e335d58cc5",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1988,
+     "sha256": "9052511c493751f5771629164b497e7ac2b5cd3191acc596e5978fb5fc96ada4"
+    },
+    {
+     "kind": "yearly",
+     "year": 1953,
+     "sha256": "389894472defc5106de7a792693882f738f2eb8108ae36c8aa7cea36fdf6996a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2033,
+     "month": 4,
+     "is_leap": false,
+     "meta": {
+      "month": 4,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "巳",
+      "label": "四月",
+      "start_date": "2033-04-29",
+      "end_date": "2033-05-27",
+      "doujun": "午",
+      "ming_branch": "酉"
+     },
+     "sha256": "043547f6063e3793fa649f99762e95765a1be64d7fb3fd5a630a3c1aca323e3f"
+    }
+   ]
+  },
+  {
+   "id": "r006_19761007T0843_男",
+   "args": {
+    "year": 1976,
+    "month": 10,
+    "day": 7,
+    "hour": 8,
+    "minute": 43,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙辰丁酉壬辰甲辰",
+    "lunar_date_str": "1976-08-14 08:28:11",
+    "true_solar_time": "1976-10-07 08:28:11",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "cfccec5e4f4787e5a462d41a7d85daf95f4b8b87b4c0e0d06561b249cd3659b0",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2078,
+     "sha256": "71bf5513fbbe8803d7c807f63e18272c9a5d709d542967a44a2f47ad75cd877f"
+    },
+    {
+     "kind": "yearly",
+     "year": 2096,
+     "sha256": "db7fe5d8719a9d9678bbcf9426e7234e1089e7a4870eb5db28d8e52c5c1e1b6e"
+    },
+    {
+     "kind": "monthly",
+     "year": 2062,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2062-10-03",
+      "end_date": "2062-10-31",
+      "doujun": "卯",
+      "ming_branch": "亥"
+     },
+     "sha256": "5a9aa42f1a240b6436d9f76bf0e890eb8964dca3db30c0a362a1ff25e12eb5db"
+    }
+   ]
+  },
+  {
+   "id": "r007_19870713T0044_女",
+   "args": {
+    "year": 1987,
+    "month": 7,
+    "day": 13,
+    "hour": 0,
+    "minute": 44,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丁卯丁未癸亥壬子",
+    "lunar_date_str": "1987-06-18 00:44:00",
+    "true_solar_time": "1987-07-13 00:44:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "2fe626bf99e694f972d01c98c27980d671aeba20300a061ec966487248e89915",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2094,
+     "sha256": "3501fb3548314364f168eadfc96a04b18ac098e53bcdbdc20e4f57d3fba558f8"
+    },
+    {
+     "kind": "yearly",
+     "year": 2003,
+     "sha256": "62731d755d464c00c8f435b4bd0711dfaed2b0c8fd9f3b132316e748195e0454"
+    },
+    {
+     "kind": "monthly",
+     "year": 2035,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2035-10-01",
+      "end_date": "2035-10-30",
+      "doujun": "戌",
+      "ming_branch": "午"
+     },
+     "sha256": "1d2e4818b8cc68b7832308ffaf7c8efdcfbdb05ad8be3512572000df926fff30"
+    }
+   ]
+  },
+  {
+   "id": "r008_19010204T2333_女",
+   "args": {
+    "year": 1901,
+    "month": 2,
+    "day": 4,
+    "hour": 23,
+    "minute": 33,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛丑庚寅甲寅甲子",
+    "lunar_date_str": "1900-12-16 23:45:46",
+    "true_solar_time": "1901-02-04 23:45:46",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "fb0000b3f4c0f6fa300da9af8f60acc19d68baa993027f5fc9e8b66d52bde7f7",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1983,
+     "sha256": "23f0f59d8e61065d48e6406426d0e5b331b10023b752641e2af0d42f2dbffe1e"
+    },
+    {
+     "kind": "yearly",
+     "year": 1906,
+     "sha256": "66eeca15168e43001119ea17b33e50cd8c82cd5a28c2ff78df1df2c94a600e6e"
+    },
+    {
+     "kind": "monthly",
+     "year": 1944,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "乙",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "1944-11-16",
+      "end_date": "1944-12-14",
+      "doujun": "酉",
+      "ming_branch": "午"
+     },
+     "sha256": "ec73fdf6464b1378939f5e6a0a461eee3628c5bb49ab44b978e6fc3d0a17fe51"
+    }
+   ]
+  },
+  {
+   "id": "r009_19860308T0215_男",
+   "args": {
+    "year": 1986,
+    "month": 3,
+    "day": 8,
+    "hour": 2,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙寅辛卯辛亥己丑",
+    "lunar_date_str": "1986-01-28 02:15:00",
+    "true_solar_time": "1986-03-08 02:15:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "fce3ca44feb1112b278c67faec3201050f284b729e5111f28cd3629037554056",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2028,
+     "sha256": "db1fb7e7607ae7dc99ce7719effae53fc9c6703c872965f49c3e66f45e0ac910"
+    },
+    {
+     "kind": "yearly",
+     "year": 2087,
+     "sha256": "aee8916fb3c35ceaf7a6ee63021dda14b9fde8ace926a10cbe2b5ec31a1f1546"
+    },
+    {
+     "kind": "monthly",
+     "year": 2104,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2104-03-27",
+      "end_date": "2104-04-24",
+      "doujun": "丑",
+      "ming_branch": "卯"
+     },
+     "sha256": "6c490ce11dd31ee0a07b7298878d9667d5e08b92bedc80933efeeed42a333e72"
+    }
+   ]
+  },
+  {
+   "id": "r010_19960625T2337_男",
+   "args": {
+    "year": 1996,
+    "month": 6,
+    "day": 25,
+    "hour": 23,
+    "minute": 37,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙子甲午癸巳癸亥",
+    "lunar_date_str": "1996-05-10 22:38:15",
+    "true_solar_time": "1996-06-25 22:38:15",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "24a662aa6d098cc2ce237f78f51816312bdc43b630f49ca1cf1fa2e840559d65",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2044,
+     "sha256": "36eff3de53427cb877529b3441cce294e76313138b523ae80a73e403c8d48832"
+    },
+    {
+     "kind": "yearly",
+     "year": 2027,
+     "sha256": "9b42c050161ea2071ead8cea09ba8032372aa317481a70179ed8e605c3a1f342"
+    },
+    {
+     "kind": "monthly",
+     "year": 2105,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2105-04-15",
+      "end_date": "2105-05-13",
+      "doujun": "申",
+      "ming_branch": "戌"
+     },
+     "sha256": "39e0bf4a237074099afca5ab1e8c05605197163bbff1360e40ee557c181a3c71"
+    }
+   ]
+  },
+  {
+   "id": "r011_19580928T2352_女",
+   "args": {
+    "year": 1958,
+    "month": 9,
+    "day": 28,
+    "hour": 23,
+    "minute": 52,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "戊戌辛酉己酉甲子",
+    "lunar_date_str": "1958-08-16 23:52:00",
+    "true_solar_time": "1958-09-28 23:52:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "c3dc13d0ffc18095d74381fed0bbadd3503cbc9d04720ab6dcbe96036278283f",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1971,
+     "sha256": "2249b5553d1bcf0fbfa731dc4e990aebd129335ae2726fdd3a2b0909c9f69fe3"
+    },
+    {
+     "kind": "yearly",
+     "year": 2032,
+     "sha256": "44366dc0262e3c99d25f1769c405242c1ac296fa4eebbcabe8ea1f7a483b6fa0"
+    },
+    {
+     "kind": "monthly",
+     "year": 2027,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2027-09-30",
+      "end_date": "2027-10-28",
+      "doujun": "子",
+      "ming_branch": "申"
+     },
+     "sha256": "7f66c2e5a243befcabd8e25e0d566119827a39d0d2509579ba73b50cc0e9e9b5"
+    }
+   ]
+  },
+  {
+   "id": "r012_19000321T0341_女",
+   "args": {
+    "year": 1900,
+    "month": 3,
+    "day": 21,
+    "hour": 3,
+    "minute": 41,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "庚子己卯癸巳甲寅",
+    "lunar_date_str": "1900-02-21 03:01:35",
+    "true_solar_time": "1900-03-21 03:01:35",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "bda826498c09fb4afe98edf0ad52fcc29a4c6b93c38c97a674cac87c1c7b850a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2020,
+     "sha256": "0bf6713979172e3a66b1189606236c863c04f0bc2a8ecc065123d1c0d95c6087"
+    },
+    {
+     "kind": "yearly",
+     "year": 1907,
+     "sha256": "4c8bec8fe63a4fa196b2becea10d5728d784c9cf764d7b3d213da0b94ca75f18"
+    },
+    {
+     "kind": "monthly",
+     "year": 1949,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1949-03-29",
+      "end_date": "1949-04-27",
+      "doujun": "寅",
+      "ming_branch": "辰"
+     },
+     "sha256": "a9c20277c15be2bc0a5a7c4e5331551794411a2d21cef4fc42f4818ed564ead0"
+    }
+   ]
+  },
+  {
+   "id": "r013_19630321T2323_男",
+   "args": {
+    "year": 1963,
+    "month": 3,
+    "day": 21,
+    "hour": 23,
+    "minute": 23,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸卯乙卯甲子甲子",
+    "lunar_date_str": "1963-02-26 23:23:00",
+    "true_solar_time": "1963-03-21 23:23:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "e684d157be5a15dea6f49f244e60bd552c429b9d6f1d071ceaab68a1c41f27d7",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2052,
+     "sha256": "c94461b04677123c8b587205eb3fdad07324f58337c153b93874b4ed46d5f408"
+    },
+    {
+     "kind": "yearly",
+     "year": 1976,
+     "sha256": "17ed7ac93a6196e2be4331fa6b3e6b947fe41476fc152537ff2a1ea488cf572f"
+    },
+    {
+     "kind": "monthly",
+     "year": 2016,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2016-04-07",
+      "end_date": "2016-05-06",
+      "doujun": "未",
+      "ming_branch": "酉"
+     },
+     "sha256": "6172341076ce92a7957b6c59a54dfbed3f962278359834fae05702bf50a93750"
+    }
+   ]
+  },
+  {
+   "id": "r014_19961005T2325_男",
+   "args": {
+    "year": 1996,
+    "month": 10,
+    "day": 5,
+    "hour": 23,
+    "minute": 25,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙子丁酉乙亥丁亥",
+    "lunar_date_str": "1996-08-23 21:27:05",
+    "true_solar_time": "1996-10-05 21:27:05",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "c0e41ba37c6d949485ce9196b2b31ad1a59c103cbc62780096c8e2fd8d2d9427",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2015,
+     "sha256": "9f17db5992aafd8eb66bd9f3661460b5a53b019726f0a8db2f936a2bee95e403"
+    },
+    {
+     "kind": "yearly",
+     "year": 2062,
+     "sha256": "55f861d3931a091ef2b63a5214b67f7c9cf1a441bc4063d222bbc751db85b44f"
+    },
+    {
+     "kind": "monthly",
+     "year": 2008,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "乙",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "2008-03-08",
+      "end_date": "2008-04-05",
+      "doujun": "辰",
+      "ming_branch": "巳"
+     },
+     "sha256": "be09e211e71b9ba49ac9819a9bb3993abf5d4aafca81009019ddd78ea967ec39"
+    }
+   ]
+  },
+  {
+   "id": "r015_19810327T0317_男",
+   "args": {
+    "year": 1981,
+    "month": 3,
+    "day": 27,
+    "hour": 3,
+    "minute": 17,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛酉辛卯甲辰丙寅",
+    "lunar_date_str": "1981-02-22 03:17:00",
+    "true_solar_time": "1981-03-27 03:17:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "759b99e0dae881d64cfab013a6424b2ae1641e88d4bf3d64dc2344313d56eb57",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2101,
+     "sha256": "68d59cb5da527028cbc1ad3f72f21b289d58336f589b2d1a3fadf01b0e8565ed"
+    },
+    {
+     "kind": "yearly",
+     "year": 2058,
+     "sha256": "aadfaac08e44937ad5cb0ff9ed6f7ce311648716075c27d227414808b1a62207"
+    },
+    {
+     "kind": "monthly",
+     "year": 2027,
+     "month": 4,
+     "is_leap": false,
+     "meta": {
+      "month": 4,
+      "is_leap": false,
+      "stem": "乙",
+      "branch": "巳",
+      "label": "四月",
+      "start_date": "2027-05-06",
+      "end_date": "2027-06-04",
+      "doujun": "申",
+      "ming_branch": "亥"
+     },
+     "sha256": "94b59a325868096b65064ce3bfd0414b0ae19556a88d6c88c3182d1e3f9fd4d1"
+    }
+   ]
+  },
+  {
+   "id": "r016_19820525T0030_女",
+   "args": {
+    "year": 1982,
+    "month": 5,
+    "day": 25,
+    "hour": 0,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "壬戌乙巳戊申癸亥",
+    "lunar_date_str": "1982-04-03 22:23:44",
+    "true_solar_time": "1982-05-25 22:23:44",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "28d2841ec606a2ba930a6ac9b549d823655765d0be2e755e3b4f1922f183c019",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2034,
+     "sha256": "81cbad53acebe9408b9a8ec571888ef88e91605c451381134de5e621b3a4a8ba"
+    },
+    {
+     "kind": "yearly",
+     "year": 2051,
+     "sha256": "0369d09c0a21ae0c0925db4e96f1e22b0444d620d4d3ad93fd96dedb57617fb4"
+    },
+    {
+     "kind": "monthly",
+     "year": 1994,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1994-04-11",
+      "end_date": "1994-05-10",
+      "doujun": "午",
+      "ming_branch": "申"
+     },
+     "sha256": "94ae1bddacfbd7ca2412d7a6ffadbe19fd146aa6a1a52e72b7c7eda32fdc82d5"
+    }
+   ]
+  },
+  {
+   "id": "r017_19201021T0051_男",
+   "args": {
+    "year": 1920,
+    "month": 10,
+    "day": 21,
+    "hour": 0,
+    "minute": 51,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚申丙戌壬子庚子",
+    "lunar_date_str": "1920-09-10 00:51:00",
+    "true_solar_time": "1920-10-21 00:51:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "805a0f4f288f190131c539d27fe50b0f82ec59c97744fa586a7fb13dea447df8",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1996,
+     "sha256": "e18b1cd8be42e0108064fe70dd05b3b010fd0c9aae800077f28985158df90a6c"
+    },
+    {
+     "kind": "yearly",
+     "year": 1926,
+     "sha256": "66a63b9dd3e02eacf2884a714e501456cb658d8acb9e07b0f85937ca1eb1ca1d"
+    },
+    {
+     "kind": "monthly",
+     "year": 1986,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "1986-08-06",
+      "end_date": "1986-09-03",
+      "doujun": "午",
+      "ming_branch": "子"
+     },
+     "sha256": "e4a4ed5d8cd4653317915e965cd2ab22c036bcdab9908b4808184ccb178046cc"
+    }
+   ]
+  },
+  {
+   "id": "r018_19890928T1059_男",
+   "args": {
+    "year": 1989,
+    "month": 9,
+    "day": 28,
+    "hour": 10,
+    "minute": 59,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己巳癸酉辛卯癸巳",
+    "lunar_date_str": "1989-08-29 10:53:52",
+    "true_solar_time": "1989-09-28 10:53:52",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "6b3613ab2b05764752074b2a59edc23135861ec309c8bbd50647e9658711bac9",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2029,
+     "sha256": "f2e701ed6db3c5883c209741375b31553ac9db7731f96dc64048f097e30817e7"
+    },
+    {
+     "kind": "yearly",
+     "year": 2086,
+     "sha256": "ff01f45c6e4d652d895a4bc367d32184ee14bb421da029b2bd7a778066a8fb8c"
+    },
+    {
+     "kind": "monthly",
+     "year": 2013,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2013-11-03",
+      "end_date": "2013-12-02",
+      "doujun": "卯",
+      "ming_branch": "子"
+     },
+     "sha256": "d44b702d85690c32366e9c11b832aaf7bd918e0bf3880a341a0b7f77a1b9a272"
+    }
+   ]
+  },
+  {
+   "id": "r019_19050502T2330_女",
+   "args": {
+    "year": 1905,
+    "month": 5,
+    "day": 2,
+    "hour": 23,
+    "minute": 30,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙巳庚辰壬寅庚子",
+    "lunar_date_str": "1905-03-28 23:30:00",
+    "true_solar_time": "1905-05-02 23:30:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "e0c17482ca3cefea7e0eea6fd0042bc5249b7893082dbb74f4df61ecd49e693e",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1962,
+     "sha256": "ea301f9bf9cb41eb10107a585a541bcd093014a41417fa8938e54b9cc5e824ba"
+    },
+    {
+     "kind": "yearly",
+     "year": 1994,
+     "sha256": "fc42697c8140efff740a45ba49262ba6e8496e12f4797e89751ad816570d73c0"
+    },
+    {
+     "kind": "monthly",
+     "year": 2025,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2025-11-20",
+      "end_date": "2025-12-19",
+      "doujun": "卯",
+      "ming_branch": "子"
+     },
+     "sha256": "a79cdcc828ed32c0cdbe3ab256754bdcbdab18a1494e516918d6010f51894fc5"
+    }
+   ]
+  },
+  {
+   "id": "r020_20051020T0535_女",
+   "args": {
+    "year": 2005,
+    "month": 10,
+    "day": 20,
+    "hour": 5,
+    "minute": 35,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙酉丙戌丁丑癸卯",
+    "lunar_date_str": "2005-09-18 05:23:13",
+    "true_solar_time": "2005-10-20 05:23:13",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "9c0221aec12d49111fb66e07c79b56b853eccff093d8342d27da2810320beaa6",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2118,
+     "sha256": "3b4f7a7af94bd80e271e48d590a94492cdc70a6c927bbbc233b6277b9ce59a06"
+    },
+    {
+     "kind": "yearly",
+     "year": 2100,
+     "sha256": "e348c1605645e7ba5af11841b1555160273f352e8ff47ee065d5c125532a7881"
+    },
+    {
+     "kind": "monthly",
+     "year": 2014,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2014-03-31",
+      "end_date": "2014-04-28",
+      "doujun": "丑",
+      "ming_branch": "卯"
+     },
+     "sha256": "e18b823d755177e80ba9371980eefe0e501a19208bdab860de2c2718565dedac"
+    }
+   ]
+  },
+  {
+   "id": "r021_19080301T0036_女",
+   "args": {
+    "year": 1908,
+    "month": 3,
+    "day": 1,
+    "hour": 0,
+    "minute": 36,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "戊申甲寅乙卯丙子",
+    "lunar_date_str": "1908-01-29 00:36:00",
+    "true_solar_time": "1908-03-01 00:36:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "99a9db747cb7e40c3b5e05f37cd18929d255f65e9cfbe9180bb4335e5feca805",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2009,
+     "sha256": "4d0f3c51e275ff7cc66b83d867bc1c34ec4af1ba66f99d25af50a4b318e8fa4c"
+    },
+    {
+     "kind": "yearly",
+     "year": 2001,
+     "sha256": "568351830e602f6373623a964b4552919359df202600cfbb20828116447806b8"
+    },
+    {
+     "kind": "monthly",
+     "year": 1984,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "1984-03-03",
+      "end_date": "1984-03-31",
+      "doujun": "子",
+      "ming_branch": "丑"
+     },
+     "sha256": "b19db6a853d408477e16c080248175a9b9fa5fa0aa080f8cd4121c011edbde79"
+    }
+   ]
+  },
+  {
+   "id": "r022_19890825T0001_男",
+   "args": {
+    "year": 1989,
+    "month": 8,
+    "day": 25,
+    "hour": 0,
+    "minute": 1,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己巳壬申丁巳辛亥",
+    "lunar_date_str": "1989-07-24 22:44:12",
+    "true_solar_time": "1989-08-25 22:44:12",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "33ec91d27160e4ab6eaf95e65bc2ec4c8f234ca30823afdcdef220066536411c",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2073,
+     "sha256": "b4996fdd77f4f68f275d435f177700640cb35eb8062dbb593318e9acd3497945"
+    },
+    {
+     "kind": "yearly",
+     "year": 1998,
+     "sha256": "ff953df7d3d2e6792bc4c34211b6d4a7c9e0fefc6d40a52d755cf9378c3c0ea6"
+    },
+    {
+     "kind": "monthly",
+     "year": 2062,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2062-06-07",
+      "end_date": "2062-07-06",
+      "doujun": "亥",
+      "ming_branch": "卯"
+     },
+     "sha256": "d99a80c38b345788fe519797819b90c1d848b2104de34a6f8fc8e5bf4c2292c7"
+    }
+   ]
+  },
+  {
+   "id": "r023_19061210T0011_女",
+   "args": {
+    "year": 1906,
+    "month": 12,
+    "day": 10,
+    "hour": 0,
+    "minute": 11,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙午庚子戊子壬子",
+    "lunar_date_str": "1906-10-25 00:11:00",
+    "true_solar_time": "1906-12-10 00:11:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "062fafe5ae9ddbcd8f353b4fefbb7899ce296716ca29d4d298a0411790820e9a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1966,
+     "sha256": "aecb55e486c388f6cec401a6456aae394ac25b8cef38b28b131544b31e1644da"
+    },
+    {
+     "kind": "yearly",
+     "year": 1971,
+     "sha256": "472e9f949d6e99805bfa1eff871bb7a269254f378c727eee79e97e29fd6ac590"
+    },
+    {
+     "kind": "monthly",
+     "year": 1934,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "1934-10-08",
+      "end_date": "1934-11-06",
+      "doujun": "丑",
+      "ming_branch": "酉"
+     },
+     "sha256": "dbc450a5b9cfd6e87fa7a5c2c4caafb98b41aeb64fbf8f02eec7f561d18acc8a"
+    }
+   ]
+  },
+  {
+   "id": "r024_19990516T0745_男",
+   "args": {
+    "year": 1999,
+    "month": 5,
+    "day": 16,
+    "hour": 7,
+    "minute": 45,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己卯己巳戊辰乙卯",
+    "lunar_date_str": "1999-04-02 06:52:38",
+    "true_solar_time": "1999-05-16 06:52:38",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "e83d12ee3c60404b5506d804acec64a1df3bb979b38b7759403ab1f894c7340e",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2058,
+     "sha256": "ee4345071ecf0b688152745cf45fbf1a2e08a237757b00b88958b7a3ed966cf4"
+    },
+    {
+     "kind": "yearly",
+     "year": 2048,
+     "sha256": "991dcff0f9a3eba6b8ec8113bd157ffa652aa9944255a25e9ab7371eeb48a54b"
+    },
+    {
+     "kind": "monthly",
+     "year": 2096,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2096-09-16",
+      "end_date": "2096-10-15",
+      "doujun": "辰",
+      "ming_branch": "亥"
+     },
+     "sha256": "feb406d60d0de0edbee5885060a59885e9c0439dcb460dbe9d5c1870330249e7"
+    }
+   ]
+  },
+  {
+   "id": "r025_19890512T1215_男",
+   "args": {
+    "year": 1989,
+    "month": 5,
+    "day": 12,
+    "hour": 12,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己巳己巳壬申丙午",
+    "lunar_date_str": "1989-04-08 12:15:00",
+    "true_solar_time": "1989-05-12 12:15:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "8bea3afafe7e01b7a7cae22f0c9921fcabc923e424e6f070cf6ed1767a9b74b5",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2092,
+     "sha256": "263e549edd13bc04eacd0fd14c07aea9c45255ac7b35f7d5f6b30dbac1751c3e"
+    },
+    {
+     "kind": "yearly",
+     "year": 2110,
+     "sha256": "7582dab85125597ee4c8ea4039e3f46ffb86f35fc46e3e65441c1518859914c7"
+    },
+    {
+     "kind": "monthly",
+     "year": 2067,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "2067-03-15",
+      "end_date": "2067-04-13",
+      "doujun": "寅",
+      "ming_branch": "卯"
+     },
+     "sha256": "593e436595ffb9dfc9794259cea48a8a52be753fe66cfa3ef3968da4c9025efc"
+    }
+   ]
+  },
+  {
+   "id": "r026_19400826T2345_男",
+   "args": {
+    "year": 1940,
+    "month": 8,
+    "day": 26,
+    "hour": 23,
+    "minute": 45,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚辰甲申辛丑己亥",
+    "lunar_date_str": "1940-07-23 22:16:31",
+    "true_solar_time": "1940-08-26 22:16:31",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "fcdc61b8b2a370bb86a2e430885eb0dfec8ca027c8c33cb5bedd55b44c1b690a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2060,
+     "sha256": "f00973fa899105a44029d984a8b5d218afc4dc04015813150af415574c7a5acc"
+    },
+    {
+     "kind": "yearly",
+     "year": 2047,
+     "sha256": "f5fa73badc941626aa51f0eb7b3124e9d23c7f3af1712e73f886bc58849b9f14"
+    },
+    {
+     "kind": "monthly",
+     "year": 2054,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "乙",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2054-10-31",
+      "end_date": "2054-11-28",
+      "doujun": "卯",
+      "ming_branch": "子"
+     },
+     "sha256": "a306a747ab9f3798e7347dc0e1fb1a66eceaa2a8d5a90ff222c24a1ae4bbf4f3"
+    }
+   ]
+  },
+  {
+   "id": "r027_19081205T2333_男",
+   "args": {
+    "year": 1908,
+    "month": 12,
+    "day": 5,
+    "hour": 23,
+    "minute": 33,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊申癸亥乙未丙子",
+    "lunar_date_str": "1908-11-12 23:33:00",
+    "true_solar_time": "1908-12-05 23:33:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "828e4a82903f867f266406d19cdbf92b2e427e33c6711b43ab7e615adbf0bf8c",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2004,
+     "sha256": "e74351767ec68388bef741cdb9d1a0391c29e73dfd17cc8079967a695a0c3a5f"
+    },
+    {
+     "kind": "yearly",
+     "year": 1916,
+     "sha256": "807e842a057dfeccb91eda8fdffab6ee65581f960f8875086648dfc684441c58"
+    },
+    {
+     "kind": "monthly",
+     "year": 2029,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2029-08-10",
+      "end_date": "2029-09-07",
+      "doujun": "亥",
+      "ming_branch": "巳"
+     },
+     "sha256": "5596cccd56c5534dfd41d1f5a143ac8f3aaabf09dfb6471cc186a0508105209f"
+    }
+   ]
+  },
+  {
+   "id": "r028_19110703T2328_女",
+   "args": {
+    "year": 1911,
+    "month": 7,
+    "day": 3,
+    "hour": 23,
+    "minute": 28,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛亥甲午乙亥丙子",
+    "lunar_date_str": "1911-06-08 23:28:36",
+    "true_solar_time": "1911-07-03 23:28:36",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "c0846687a4eb722b3bc2b28acaa163327ba97aa5b2a41d751637495d82859896",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1962,
+     "sha256": "f94392da099776a2c450d1745c663f6378c5c34d82d806ffd8899f67c03466ea"
+    },
+    {
+     "kind": "yearly",
+     "year": 2010,
+     "sha256": "a1c56ec8aef64b4f15f2d9c5661a7495a4e1f1b4fa5df279deaaf131fed3fc41"
+    },
+    {
+     "kind": "monthly",
+     "year": 1993,
+     "month": 3,
+     "is_leap": true,
+     "meta": {
+      "month": 3,
+      "is_leap": true,
+      "stem": "丙",
+      "branch": "辰",
+      "label": "闰三月",
+      "start_date": "1993-04-22",
+      "end_date": "1993-05-20",
+      "doujun": "辰",
+      "ming_branch": "午"
+     },
+     "sha256": "7213090ca431c8e75b19128a663bd650f544b57d6cd55b2ecf045379474ecf70"
+    }
+   ]
+  },
+  {
+   "id": "r029_19410210T0035_男",
+   "args": {
+    "year": 1941,
+    "month": 2,
+    "day": 10,
+    "hour": 0,
+    "minute": 35,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛巳庚寅己丑甲子",
+    "lunar_date_str": "1941-01-15 00:35:00",
+    "true_solar_time": "1941-02-10 00:35:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "a48c83f3c9931fa73de9e70d8ffbbb55fd6cc1ff66ffd370cb899d0708b36ddd",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1980,
+     "sha256": "a00cebe27918f32a744adc3eb494ef382e7ae9ed9df34f38b666d71882e948e8"
+    },
+    {
+     "kind": "yearly",
+     "year": 2009,
+     "sha256": "3456b7c1a20363c1f7b6d09ad75a080c9c90057235212a6709bffad10d429813"
+    },
+    {
+     "kind": "monthly",
+     "year": 1952,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "1952-08-20",
+      "end_date": "1952-09-18",
+      "doujun": "辰",
+      "ming_branch": "戌"
+     },
+     "sha256": "542556311390c13216fbbbc38fe12d9a8b86906756b8fb3f561fcbae9d17c953"
+    }
+   ]
+  },
+  {
+   "id": "r030_19690816T0726_男",
+   "args": {
+    "year": 1969,
+    "month": 8,
+    "day": 16,
+    "hour": 7,
+    "minute": 26,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己酉壬申癸亥乙卯",
+    "lunar_date_str": "1969-07-04 05:12:13",
+    "true_solar_time": "1969-08-16 05:12:13",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "d1102d2471d622e949befa484e7f2df5f1e4719754e673e45826fdffb11b8e02",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2005,
+     "sha256": "2761c89ae2a90a83ca3c164c596513567b25b0cd426229e526714f7950ff50f0"
+    },
+    {
+     "kind": "yearly",
+     "year": 2089,
+     "sha256": "a85acd0e1e78fd91e9606e224619e45a3b20809b777eafd09b7160a081299df6"
+    },
+    {
+     "kind": "monthly",
+     "year": 1976,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "1976-07-27",
+      "end_date": "1976-08-24",
+      "doujun": "丑",
+      "ming_branch": "未"
+     },
+     "sha256": "9e2f0b7cbd3b22287776ed9658972ea64a1c8af8910bd6baad0f98fba4a4002b"
+    }
+   ]
+  },
+  {
+   "id": "r031_20100417T2144_男",
+   "args": {
+    "year": 2010,
+    "month": 4,
+    "day": 17,
+    "hour": 21,
+    "minute": 44,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚寅庚辰丁酉辛亥",
+    "lunar_date_str": "2010-03-04 21:44:00",
+    "true_solar_time": "2010-04-17 21:44:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "b1485fac59247bb2e2d3326bc4d68d7be28efe574d6cd9f2bc8ae949dde1493c",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2047,
+     "sha256": "61603b16c55a9cbd57a4120ebfb466f00f00c4ed696b332c6e92d069c92ae6ca"
+    },
+    {
+     "kind": "yearly",
+     "year": 2027,
+     "sha256": "2fc1fae8afa3c9dc693a9ca4f55fa379d8ce003100b9f5fd9c3885c928ea87a3"
+    },
+    {
+     "kind": "monthly",
+     "year": 2123,
+     "month": 12,
+     "is_leap": false,
+     "meta": {
+      "month": 12,
+      "is_leap": false,
+      "stem": "乙",
+      "branch": "丑",
+      "label": "腊月",
+      "start_date": "2124-01-17",
+      "end_date": "2124-02-14",
+      "doujun": "辰",
+      "ming_branch": "卯"
+     },
+     "sha256": "df2f11c26a927c7225f07c509356479c9e85a58b1fc8bff20a6e574dad579d64"
+    }
+   ]
+  },
+  {
+   "id": "r032_19271225T1113_女",
+   "args": {
+    "year": 1927,
+    "month": 12,
+    "day": 25,
+    "hour": 11,
+    "minute": 13,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丁卯壬子癸巳丁巳",
+    "lunar_date_str": "1927-12-02 10:46:43",
+    "true_solar_time": "1927-12-25 10:46:43",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "bacb0ae09d7d816d18b4a1dd5a6108c4aabe75431d0ae9d92342390d647bc2bc",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1947,
+     "sha256": "c9b27ff53e66d114636864bbde3faf1499d57aef831b9b7b88b3a4992011d844"
+    },
+    {
+     "kind": "yearly",
+     "year": 2029,
+     "sha256": "d6d21bb9175c36bc1b1481b88b27e7d92ad265688927dac20fe13b332ab3f62a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2007,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2007-07-14",
+      "end_date": "2007-08-12",
+      "doujun": "巳",
+      "ming_branch": "戌"
+     },
+     "sha256": "ffb023762f21b86ee9e7f7526679508deba6dbeb2a47308172e279f12e25f4d3"
+    }
+   ]
+  },
+  {
+   "id": "r033_20030808T0507_女",
+   "args": {
+    "year": 2003,
+    "month": 8,
+    "day": 8,
+    "hour": 5,
+    "minute": 7,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "癸未己未癸丑乙卯",
+    "lunar_date_str": "2003-07-11 05:07:00",
+    "true_solar_time": "2003-08-08 05:07:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "26cecdc254b5cd0ac7536881a733a4468c57764cb1b578bcd8a6f49e7d769ad1",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2017,
+     "sha256": "0c552c81c939f2c32f2ef2268d85a7b4734bde2ebeb0aee95c319efab3bac52c"
+    },
+    {
+     "kind": "yearly",
+     "year": 2028,
+     "sha256": "2c0ea45ec2f3f0671d820672bdcdc526e09d33b568611954be56e12f6403b160"
+    },
+    {
+     "kind": "monthly",
+     "year": 2077,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2077-06-20",
+      "end_date": "2077-07-19",
+      "doujun": "午",
+      "ming_branch": "戌"
+     },
+     "sha256": "bbc66e42f1afeed4773839d634d0a19a199986e7d266817a25550dcaafd32841"
+    }
+   ]
+  },
+  {
+   "id": "r034_19000919T2332_女",
+   "args": {
+    "year": 1900,
+    "month": 9,
+    "day": 19,
+    "hour": 23,
+    "minute": 32,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "庚子乙酉丙申戊子",
+    "lunar_date_str": "1900-08-26 23:42:55",
+    "true_solar_time": "1900-09-19 23:42:55",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "ac28de15aed5d1c594d743aa725736c4849883d0025d597d080e6dbad8000200",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1994,
+     "sha256": "716249923b65b8f8c56f371b130543489403c83a22479bac73c190a7d0c3af47"
+    },
+    {
+     "kind": "yearly",
+     "year": 1972,
+     "sha256": "c7b0d6f290ca8a0a75a37ee79a0fa24854ddc96dd2b0a37f7692efd65cf94c25"
+    },
+    {
+     "kind": "monthly",
+     "year": 1955,
+     "month": 3,
+     "is_leap": true,
+     "meta": {
+      "month": 3,
+      "is_leap": true,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "闰三月",
+      "start_date": "1955-04-22",
+      "end_date": "1955-05-21",
+      "doujun": "子",
+      "ming_branch": "寅"
+     },
+     "sha256": "62db67c6d17ee98387f993c4da338eb8d9987a285c9b5179f06887d31ba15a8b"
+    }
+   ]
+  },
+  {
+   "id": "r035_20161106T2347_男",
+   "args": {
+    "year": 2016,
+    "month": 11,
+    "day": 6,
+    "hour": 23,
+    "minute": 47,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙申戊戌癸巳壬子",
+    "lunar_date_str": "2016-10-07 23:47:00",
+    "true_solar_time": "2016-11-06 23:47:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "5dcdad1336af395dabdc0f9be6e8990383f91fc40608893b8a5eecaf328a2fef",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2083,
+     "sha256": "4e2de945b07d5a64d79c2443c953ca4bec80acf14f893afe25a0592419c9ffeb"
+    },
+    {
+     "kind": "yearly",
+     "year": 2041,
+     "sha256": "2b26159b67e8f5c600f560936147dcdfe27a1c41c6bc6ccbf74272d6feb9cefc"
+    },
+    {
+     "kind": "monthly",
+     "year": 2030,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "2030-03-04",
+      "end_date": "2030-04-02",
+      "doujun": "丑",
+      "ming_branch": "寅"
+     },
+     "sha256": "adc1057bfe12e466ee186c65176e1598b57acb067dc6705ef502cfcb7daa9b71"
+    }
+   ]
+  },
+  {
+   "id": "r036_20070116T0425_男",
+   "args": {
+    "year": 2007,
+    "month": 1,
+    "day": 16,
+    "hour": 4,
+    "minute": 25,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙戌辛丑庚戌丁丑",
+    "lunar_date_str": "2006-11-28 02:05:53",
+    "true_solar_time": "2007-01-16 02:05:53",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "9ddeb41a81ced69658cce98c31d5b780b0f09fc295897d4748f4f765cd9ab357",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2075,
+     "sha256": "dbb0d44bc749adbb28cefdfacb9262714c90823beeb423c9cdd31d869b1ea521"
+    },
+    {
+     "kind": "yearly",
+     "year": 2041,
+     "sha256": "d973d2c6b087e93983e89fa91792efa5948cae31100c3f68b51990d5f14a3e9a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2063,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2063-03-30",
+      "end_date": "2063-04-27",
+      "doujun": "戌",
+      "ming_branch": "子"
+     },
+     "sha256": "f4ead39d6179c9a71d404d9b9d3904ffa045863a26db9025f8381570b12aded0"
+    }
+   ]
+  },
+  {
+   "id": "r037_20060803T2324_男",
+   "args": {
+    "year": 2006,
+    "month": 8,
+    "day": 3,
+    "hour": 23,
+    "minute": 24,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙戌乙未乙丑丙子",
+    "lunar_date_str": "2006-07-10 23:24:00",
+    "true_solar_time": "2006-08-03 23:24:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "d42f702b2c14b55cc3134d181ed3b16a0063ac1b37564531d4135d584f5fb9d8",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2065,
+     "sha256": "e7f21e40a4ee73587755886fbc90c1bf9ad91102a4bee35f59d3a28f739849fb"
+    },
+    {
+     "kind": "yearly",
+     "year": 2098,
+     "sha256": "b6e3b505b4ba63229e4be58bb754873409f0ffac463e91467fd7df460efc9f73"
+    },
+    {
+     "kind": "monthly",
+     "year": 2013,
+     "month": 1,
+     "is_leap": false,
+     "meta": {
+      "month": 1,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "寅",
+      "label": "正月",
+      "start_date": "2013-02-10",
+      "end_date": "2013-03-11",
+      "doujun": "亥",
+      "ming_branch": "亥"
+     },
+     "sha256": "e62c685c7029b560e504bce790131ef7cb8adcfa61400101836cd9489dcb2825"
+    }
+   ]
+  },
+  {
+   "id": "r038_19770120T0043_女",
+   "args": {
+    "year": 1977,
+    "month": 1,
+    "day": 20,
+    "hour": 0,
+    "minute": 43,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙辰辛丑丁丑辛亥",
+    "lunar_date_str": "1976-12-02 22:22:45",
+    "true_solar_time": "1977-01-20 22:22:45",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "3bea64533b79797fc0285e575da028aa0a983b0e171d1124099887e6d6460463",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2068,
+     "sha256": "34dfe98b7c27de648d7fa09b2d4af759c8b93d197f1966a51c1f431280a01d6e"
+    },
+    {
+     "kind": "yearly",
+     "year": 2081,
+     "sha256": "b2e926bf7119dda2a8c196b888e6fc48d31ead890fd5e68adafef5c3740e4212"
+    },
+    {
+     "kind": "monthly",
+     "year": 2072,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2072-08-14",
+      "end_date": "2072-09-11",
+      "doujun": "辰",
+      "ming_branch": "戌"
+     },
+     "sha256": "63244301f2a9f96201296bb1b02c35e33036f92a455ad1ee5ee9aa381fa73829"
+    }
+   ]
+  },
+  {
+   "id": "r039_19620921T2358_男",
+   "args": {
+    "year": 1962,
+    "month": 9,
+    "day": 21,
+    "hour": 23,
+    "minute": 58,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "壬寅己酉癸亥壬子",
+    "lunar_date_str": "1962-08-23 23:58:00",
+    "true_solar_time": "1962-09-21 23:58:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "f3ffef424a0bfddc0f7accbf4c39d62135ce4f3a0a12ca6192d37ad63ce44f08",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2059,
+     "sha256": "0f311631fa570db5ddd5e303f3c73c8b46c763b6fc45bbff5ecef417dee0b293"
+    },
+    {
+     "kind": "yearly",
+     "year": 2017,
+     "sha256": "5467cef20546a884cc152a671144f47674b7dc84606ef6a2744ac7e88a53f790"
+    },
+    {
+     "kind": "monthly",
+     "year": 2055,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2055-03-28",
+      "end_date": "2055-04-26",
+      "doujun": "辰",
+      "ming_branch": "午"
+     },
+     "sha256": "6c79dd0792e10969f1eaa7c25cb6041bcae316a2ec517725869713fc9d089080"
+    }
+   ]
+  },
+  {
+   "id": "r040_19201010T0032_男",
+   "args": {
+    "year": 1920,
+    "month": 10,
+    "day": 10,
+    "hour": 0,
+    "minute": 32,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚申丙戌辛丑己亥",
+    "lunar_date_str": "1920-08-29 22:35:24",
+    "true_solar_time": "1920-10-10 22:35:24",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "7c97a72cc477b8389c7b60a4f137474bda738afcb3454e3470f6d3c54ad96fa4",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2041,
+     "sha256": "c5f8dbbd6792070e7ce2aecef527ecf9a439d139cee6038ed5916179df7a3751"
+    },
+    {
+     "kind": "yearly",
+     "year": 1992,
+     "sha256": "9d88e0a387f8b18284e1c44838b3e0e0a37df523bb4e44bc170b63dde19e2a83"
+    },
+    {
+     "kind": "monthly",
+     "year": 1974,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1974-03-24",
+      "end_date": "1974-04-21",
+      "doujun": "午",
+      "ming_branch": "申"
+     },
+     "sha256": "baf0c8ebaaf881fb9000bf19ba9410ed1c85e8b10bb972ba177d6331787fe445"
+    }
+   ]
+  },
+  {
+   "id": "r041_19731027T0000_男",
+   "args": {
+    "year": 1973,
+    "month": 10,
+    "day": 27,
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸丑壬戌丙申戊子",
+    "lunar_date_str": "1973-10-02 00:00:00",
+    "true_solar_time": "1973-10-27 00:00:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "32466f389029656cebf501f719b4972bb2a04f1c793214fd7179483cb2d72b32",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2022,
+     "sha256": "fad4ac12a4e496e6190af8000d5615a784ad862df4ca0e8032c9a5bbe0e0121f"
+    },
+    {
+     "kind": "yearly",
+     "year": 1987,
+     "sha256": "1db396e2129568507df6bb52ed002204caf3f31beec3766171ee49404e31c438"
+    },
+    {
+     "kind": "monthly",
+     "year": 1990,
+     "month": 1,
+     "is_leap": false,
+     "meta": {
+      "month": 1,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "寅",
+      "label": "正月",
+      "start_date": "1990-01-27",
+      "end_date": "1990-02-24",
+      "doujun": "酉",
+      "ming_branch": "酉"
+     },
+     "sha256": "35f40f44d336ce4bec38180a45344747f98167c6f4e167bef6fe57c7c47c5796"
+    }
+   ]
+  },
+  {
+   "id": "r042_19870905T2301_男",
+   "args": {
+    "year": 1987,
+    "month": 9,
+    "day": 5,
+    "hour": 23,
+    "minute": 1,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁卯戊申丁巳辛亥",
+    "lunar_date_str": "1987-07-13 21:47:40",
+    "true_solar_time": "1987-09-05 21:47:40",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "1624f03365a57d358f7ca73ac79105d0306956a2277e9bef7728758de0a81e9b",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2005,
+     "sha256": "5d228d812eeeb817d7f8561de68077586801edf245dbfe2c317da86ace365ef4"
+    },
+    {
+     "kind": "yearly",
+     "year": 2058,
+     "sha256": "8823e5b0a9b7c78c2fa4bc68b17923f025894bfd3cc432693d74de3051a18272"
+    },
+    {
+     "kind": "monthly",
+     "year": 2054,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2054-04-08",
+      "end_date": "2054-05-07",
+      "doujun": "卯",
+      "ming_branch": "巳"
+     },
+     "sha256": "f6b5322814dc0e2c94bdd1a49cde2d94a05d3bf403710f28099c213a3e6a62d9"
+    }
+   ]
+  },
+  {
+   "id": "r043_19300503T2215_女",
+   "args": {
+    "year": 1930,
+    "month": 5,
+    "day": 3,
+    "hour": 22,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "庚午庚辰癸丑癸亥",
+    "lunar_date_str": "1930-04-05 22:15:00",
+    "true_solar_time": "1930-05-03 22:15:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "a6d3fe01958e91f2e0c1db3f45a5c5d99470906a75f829d26553e8a262ceeb93",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1960,
+     "sha256": "12740c9a7b745b37f5f69b0130f91ad6d02b28c1e655c23899b35157e690bc63"
+    },
+    {
+     "kind": "yearly",
+     "year": 2035,
+     "sha256": "81c761c60105a4343fbc278e94a1870a73192bba8d15f4519d59f91fed801eb8"
+    },
+    {
+     "kind": "monthly",
+     "year": 2028,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2028-12-16",
+      "end_date": "2029-01-14",
+      "doujun": "辰",
+      "ming_branch": "寅"
+     },
+     "sha256": "0884ec485e6e4f402197864d1793f4b26bde8341d52d31775a4ec18ad736e071"
+    }
+   ]
+  },
+  {
+   "id": "r044_19791116T2301_女",
+   "args": {
+    "year": 1979,
+    "month": 11,
+    "day": 16,
+    "hour": 23,
+    "minute": 1,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "己未乙亥戊子壬子",
+    "lunar_date_str": "1979-09-27 23:42:29",
+    "true_solar_time": "1979-11-16 23:42:29",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "2336aa8b0c093d83693afc92ac9d35caecdbeb855fa702c419c110c41adb8941",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2049,
+     "sha256": "2a851efc2e98c5531279314407f0cdd39b89583901826454c8962f82da483e30"
+    },
+    {
+     "kind": "yearly",
+     "year": 2079,
+     "sha256": "7ecd59488cddc4d46db1688980358aea24e30e4afe389f488ba7ac586fc16f10"
+    },
+    {
+     "kind": "monthly",
+     "year": 2067,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2067-12-06",
+      "end_date": "2068-01-04",
+      "doujun": "卯",
+      "ming_branch": "丑"
+     },
+     "sha256": "191af89b550186b2bfd262bb89a154fb89e111b7a16582b349a5a07c1d7200f2"
+    }
+   ]
+  },
+  {
+   "id": "r045_19140724T0018_女",
+   "args": {
+    "year": 1914,
+    "month": 7,
+    "day": 24,
+    "hour": 0,
+    "minute": 18,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "甲寅辛未辛亥戊子",
+    "lunar_date_str": "1914-06-02 00:18:00",
+    "true_solar_time": "1914-07-24 00:18:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "d7aab54c71c7e49503d17f77a19805ed4d1842c0ca5b143e660db66bb9c83df0",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1969,
+     "sha256": "d214535614d89266084cb4efa14353e2493d7a994b35c04dc616ec27894ef430"
+    },
+    {
+     "kind": "yearly",
+     "year": 2018,
+     "sha256": "6df99b4a3b14bbc2aafedc85e128dc0a39bd590fa0aebe6154139ebda8a2e074"
+    },
+    {
+     "kind": "monthly",
+     "year": 1996,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "1996-12-11",
+      "end_date": "1997-01-08",
+      "doujun": "未",
+      "ming_branch": "巳"
+     },
+     "sha256": "d88aa61b80ce9c07b8a4bbbe39f98c2bc080fd070c8754a0dee3cbed34be8257"
+    }
+   ]
+  },
+  {
+   "id": "r046_19640403T1905_男",
+   "args": {
+    "year": 1964,
+    "month": 4,
+    "day": 3,
+    "hour": 19,
+    "minute": 5,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "甲辰丁卯壬午己酉",
+    "lunar_date_str": "1964-02-21 18:34:49",
+    "true_solar_time": "1964-04-03 18:34:49",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "69400855d86b8968715ef963f5a90484d3a98c1c6907f3131da7ba6f1684ea84",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2016,
+     "sha256": "6a7e0cbc5fcf8de264e39d707443fb06c5f3778e170a92012545373c80d0bc36"
+    },
+    {
+     "kind": "yearly",
+     "year": 2065,
+     "sha256": "679d550279204416457061078abca5299dd09c7e0448d03961011540d8eabd3c"
+    },
+    {
+     "kind": "monthly",
+     "year": 2068,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2068-07-29",
+      "end_date": "2068-08-27",
+      "doujun": "申",
+      "ming_branch": "寅"
+     },
+     "sha256": "2ba9cb12e126c50f35ef8e836955d8b659ee67983382f65637c874005525ef3f"
+    }
+   ]
+  },
+  {
+   "id": "r047_20060210T1612_男",
+   "args": {
+    "year": 2006,
+    "month": 2,
+    "day": 10,
+    "hour": 16,
+    "minute": 12,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙戌庚寅庚午甲申",
+    "lunar_date_str": "2006-01-13 16:12:00",
+    "true_solar_time": "2006-02-10 16:12:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "a7c5a1b985772e9520bc3a0dfbbcf19cd9b22e44fa2a8dcf0037c3c034f5ed31",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2037,
+     "sha256": "8a76cd35f6b7d83a06984101282516ce1cbd736626703fc15ccec5cb4e5f25e6"
+    },
+    {
+     "kind": "yearly",
+     "year": 2063,
+     "sha256": "32157107f1a9d0f97aac0bf34ff823c5c3377056a6d6575c6e0c7b9040f5626a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2018,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2018-09-10",
+      "end_date": "2018-10-08",
+      "doujun": "午",
+      "ming_branch": "丑"
+     },
+     "sha256": "f39c88c0bb7c4f20d73e917a7885b43536f86712b305105e8be3f4f0227c356a"
+    }
+   ]
+  },
+  {
+   "id": "r048_20251121T0011_男",
+   "args": {
+    "year": 2025,
+    "month": 11,
+    "day": 21,
+    "hour": 0,
+    "minute": 11,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "乙巳丁亥甲午甲子",
+    "lunar_date_str": "2025-10-02 00:10:47",
+    "true_solar_time": "2025-11-21 00:10:47",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "e3caa0068cb6963e2e7a60f543790b002b1da622c72664cbb5cef471004baa2e",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2092,
+     "sha256": "4d08004f52e778b2be8a58031c4c8468c700b9a7d8b8241705ddde37eeecdcef"
+    },
+    {
+     "kind": "yearly",
+     "year": 2128,
+     "sha256": "3aeab5e7cd47bd1c7cfcc68f85ba2cab42664a231eced5cd35dee197abfae5da"
+    },
+    {
+     "kind": "monthly",
+     "year": 2119,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2119-10-04",
+      "end_date": "2119-11-02",
+      "doujun": "午",
+      "ming_branch": "寅"
+     },
+     "sha256": "9a52cb34d9ec1730c72b67ffb1fb2742a6d8d1bc6a3a321b5a5c8102cfdfb658"
+    }
+   ]
+  },
+  {
+   "id": "r049_19490305T1754_女",
+   "args": {
+    "year": 1949,
+    "month": 3,
+    "day": 5,
+    "hour": 17,
+    "minute": 54,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "己丑丙寅甲午癸酉",
+    "lunar_date_str": "1949-02-06 17:54:00",
+    "true_solar_time": "1949-03-05 17:54:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "92f7574cb797ee1921a51437dbdcc349a518cfc79fb67c179e59876730f8e688",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1988,
+     "sha256": "4281b40df96954e0968db9f848dc61cfc5ab49e93d47992ffe7278f7872fcd82"
+    },
+    {
+     "kind": "yearly",
+     "year": 2068,
+     "sha256": "3ab2ce51f4e36e1775aae90cd68730d895a312cd55d0414fa72feb8f35853d66"
+    },
+    {
+     "kind": "monthly",
+     "year": 2009,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2009-12-16",
+      "end_date": "2010-01-14",
+      "doujun": "酉",
+      "ming_branch": "未"
+     },
+     "sha256": "ec559b235b90bc3197cba539fae3f18ce0fc417b7a6d2e4ba0c926a4f598eec4"
+    }
+   ]
+  },
+  {
+   "id": "r050_19790711T2354_女",
+   "args": {
+    "year": 1979,
+    "month": 7,
+    "day": 11,
+    "hour": 23,
+    "minute": 54,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "己未辛未庚辰丙子",
+    "lunar_date_str": "1979-06-18 23:34:19",
+    "true_solar_time": "1979-07-11 23:34:19",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "f4a6b10c4d4a5e6d5cc75d8c2bd0c8518fa239a915839035ccb8c49ed27cdfa9",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2064,
+     "sha256": "f8ff7343c600a98226a7004725445f4da0f3a67e2dd4f2c00cb63cc7a336e4a8"
+    },
+    {
+     "kind": "yearly",
+     "year": 2015,
+     "sha256": "ada38f657a0a1abdab0c87fceae200b9865a703d7dd64bbcf369b486cf3028c6"
+    },
+    {
+     "kind": "monthly",
+     "year": 2094,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2094-04-15",
+      "end_date": "2094-05-13",
+      "doujun": "酉",
+      "ming_branch": "亥"
+     },
+     "sha256": "9e11ffe8b9dbc8166e617eab11ebca86312a58db0f54b78fe31930bf7b42eabb"
+    }
+   ]
+  },
+  {
+   "id": "r051_20250911T2353_女",
+   "args": {
+    "year": 2025,
+    "month": 9,
+    "day": 11,
+    "hour": 23,
+    "minute": 53,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙巳乙酉甲申甲子",
+    "lunar_date_str": "2025-07-20 23:53:00",
+    "true_solar_time": "2025-09-11 23:53:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "ed6707a05bf2aee5fda0fa8c795a7b36d4f0e0fd596b7f0c2855a6dd6d5adbfd",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2029,
+     "sha256": "aae9046e26d6bd260214b1dc650867fc4f552f688ae9447fd924508a00b24891"
+    },
+    {
+     "kind": "yearly",
+     "year": 2070,
+     "sha256": "a132569e2fdf3691c2eccaa2ec29789c3969ab2a7129e104b1089787d4df928b"
+    },
+    {
+     "kind": "monthly",
+     "year": 2057,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2057-09-29",
+      "end_date": "2057-10-27",
+      "doujun": "未",
+      "ming_branch": "卯"
+     },
+     "sha256": "461000a4f72d9383f5350cd80c6702f83730e554c4ade5fbd5c61fb76195bbdd"
+    }
+   ]
+  },
+  {
+   "id": "r052_20030823T0120_女",
+   "args": {
+    "year": 2003,
+    "month": 8,
+    "day": 23,
+    "hour": 1,
+    "minute": 20,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "癸未庚申戊辰癸丑",
+    "lunar_date_str": "2003-07-26 01:43:19",
+    "true_solar_time": "2003-08-23 01:43:19",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "b375772e4ad72e9ed0ef96f9c60e41c528b8f66c1e9c8e2935ffde44551b3ab8",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2069,
+     "sha256": "363d5b5b781eaa64441871c73fbdad15b009f7454d89947991f9303c7dd09e7a"
+    },
+    {
+     "kind": "yearly",
+     "year": 2112,
+     "sha256": "4417f4e9b141ff4c324be479c11ea3212e0db86f6e023a2522f650195272bad4"
+    },
+    {
+     "kind": "monthly",
+     "year": 2009,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2009-08-20",
+      "end_date": "2009-09-18",
+      "doujun": "申",
+      "ming_branch": "寅"
+     },
+     "sha256": "5f3cdc12d2c8ccd73cf2b92f3a2b23ffd31b422d0d2ef3be11bad1632bd2ea69"
+    }
+   ]
+  },
+  {
+   "id": "r053_20230901T0051_男",
+   "args": {
+    "year": 2023,
+    "month": 9,
+    "day": 1,
+    "hour": 0,
+    "minute": 51,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸卯庚申壬戌庚子",
+    "lunar_date_str": "2023-07-17 00:51:00",
+    "true_solar_time": "2023-09-01 00:51:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "4fdba1181a6865f685d5e477df08d70ce3d8325955671aa833dd07d2d34f225b",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2082,
+     "sha256": "bba822a1854bf2291f700c1c20a849fe7e677a7b029824c3421d7a836e72a16c"
+    },
+    {
+     "kind": "yearly",
+     "year": 2062,
+     "sha256": "0656dc81110ac1990f66bdfbdbe25f645944b5262926de0a443912888177a57d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2086,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2086-11-06",
+      "end_date": "2086-12-05",
+      "doujun": "子",
+      "ming_branch": "酉"
+     },
+     "sha256": "83be656015325e5ad6e9952f296e1dcd745d3d0627d576558f04f1cea2b6f355"
+    }
+   ]
+  },
+  {
+   "id": "r054_19780917T2356_男",
+   "args": {
+    "year": 1978,
+    "month": 9,
+    "day": 17,
+    "hour": 23,
+    "minute": 56,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊午辛酉壬午辛亥",
+    "lunar_date_str": "1978-08-15 21:51:47",
+    "true_solar_time": "1978-09-17 21:51:47",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "80492ff5506c70f5e32f436e75694aad990f6ba53ef762aa61426980cbebc363",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2065,
+     "sha256": "a32145ea0e7aaebd74f1a7cc4eb9bc8fedadde6f1aa8dd98ea08ad3098de1f55"
+    },
+    {
+     "kind": "yearly",
+     "year": 2042,
+     "sha256": "8d20b9c9d218d4ff1768cdb986b00410bc6d51f28e240a707e602c769c89f58e"
+    },
+    {
+     "kind": "monthly",
+     "year": 2092,
+     "month": 1,
+     "is_leap": false,
+     "meta": {
+      "month": 1,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "寅",
+      "label": "正月",
+      "start_date": "2092-02-07",
+      "end_date": "2092-03-07",
+      "doujun": "辰",
+      "ming_branch": "辰"
+     },
+     "sha256": "edce7377eac3ca2666e95717dea79d90cc14f66e520efc63771d0e8f38be998f"
+    }
+   ]
+  },
+  {
+   "id": "r055_20020408T1834_女",
+   "args": {
+    "year": 2002,
+    "month": 4,
+    "day": 8,
+    "hour": 18,
+    "minute": 34,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "壬午甲辰丙午丁酉",
+    "lunar_date_str": "2002-02-26 18:34:00",
+    "true_solar_time": "2002-04-08 18:34:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "4839b0a95a5a23d36aac2cfb07395c7a224fb1454dcd54f96bec3e2095b5b560",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2061,
+     "sha256": "65a3c1ca9a18e3d7eebea6d2b2e9812c1fcb1e45accc9408cfa8813e226ee5a6"
+    },
+    {
+     "kind": "yearly",
+     "year": 2029,
+     "sha256": "b3fded6a508cdce9f0d7cd823bdf05031a1bae4a43528be6e56ccd19ce1cd21c"
+    },
+    {
+     "kind": "monthly",
+     "year": 2060,
+     "month": 12,
+     "is_leap": false,
+     "meta": {
+      "month": 12,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "丑",
+      "label": "腊月",
+      "start_date": "2060-12-23",
+      "end_date": "2061-01-20",
+      "doujun": "子",
+      "ming_branch": "亥"
+     },
+     "sha256": "a31600a31f09709213db38d01f0d88780f612c1e2986ff2fd41fe8d83dde4917"
+    }
+   ]
+  },
+  {
+   "id": "r056_19320804T2334_女",
+   "args": {
+    "year": 1932,
+    "month": 8,
+    "day": 4,
+    "hour": 23,
+    "minute": 34,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "壬申丁未戊戌壬子",
+    "lunar_date_str": "1932-07-03 23:54:27",
+    "true_solar_time": "1932-08-04 23:54:27",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "bc700cec42c64fc23ee7bc8caa946eae7dfe6a1c2477b55868b6c59eb0a6b49a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2031,
+     "sha256": "f8c53f97fc911e758064ab914dab8d424d2a6b395836355fb390d0ee98f964f0"
+    },
+    {
+     "kind": "yearly",
+     "year": 1984,
+     "sha256": "faaee17eba8b5d4292dd4b9aff470ea50ade1e9e5397b15374c8c601d4f4cae9"
+    },
+    {
+     "kind": "monthly",
+     "year": 1974,
+     "month": 12,
+     "is_leap": false,
+     "meta": {
+      "month": 12,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "丑",
+      "label": "腊月",
+      "start_date": "1975-01-12",
+      "end_date": "1975-02-10",
+      "doujun": "申",
+      "ming_branch": "未"
+     },
+     "sha256": "cb3b323ad4f6299c2e2429923fa89177f5f6c17ab1101481d35bd3b4bc94cbdc"
+    }
+   ]
+  },
+  {
+   "id": "r057_19130210T2321_女",
+   "args": {
+    "year": 1913,
+    "month": 2,
+    "day": 10,
+    "hour": 23,
+    "minute": 21,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "癸丑甲寅癸亥壬子",
+    "lunar_date_str": "1913-01-05 23:21:00",
+    "true_solar_time": "1913-02-10 23:21:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "7f62d93e5805debe937ed9ff3fc384ea384e9b5d3e00c30ca71e737c0d565926",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1924,
+     "sha256": "45d40eaed26ecc9e2f01190feeafc4d7484656f14494e0d3dd11858ac515d402"
+    },
+    {
+     "kind": "yearly",
+     "year": 1939,
+     "sha256": "7a3ae720500d5b053bcfefce47f0c97bd6395efa2b0c28cfa66e5682a97604a0"
+    },
+    {
+     "kind": "monthly",
+     "year": 1956,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "1956-06-09",
+      "end_date": "1956-07-07",
+      "doujun": "申",
+      "ming_branch": "子"
+     },
+     "sha256": "b7d158828cacb23c382c4a1f97659ca367fad4bbeee12d4dcd16462124ecaa8e"
+    }
+   ]
+  },
+  {
+   "id": "r058_19821013T0031_女",
+   "args": {
+    "year": 1982,
+    "month": 10,
+    "day": 13,
+    "hour": 0,
+    "minute": 31,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "壬戌庚戌己巳甲子",
+    "lunar_date_str": "1982-08-27 00:17:40",
+    "true_solar_time": "1982-10-13 00:17:40",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "cd5406f3b3ac31f773c1bf4b602290108f993dc1c258078d1dda8af33feb6ddd",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2005,
+     "sha256": "4f60619b999a51ad42318bf3f0eb7c5cf095a903c3bfd6c04e25be4c7fa0f99f"
+    },
+    {
+     "kind": "yearly",
+     "year": 2027,
+     "sha256": "76097630492fe5d3edc4f965d56a54c80a9b608a30439ef8973780be4ba8910d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2095,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2095-10-28",
+      "end_date": "2095-11-26",
+      "doujun": "申",
+      "ming_branch": "巳"
+     },
+     "sha256": "29ccf4bae85e8a226ab80db134b57ab6b175aca2123f648f2a2247f48fe02ab5"
+    }
+   ]
+  },
+  {
+   "id": "r059_19710222T0021_男",
+   "args": {
+    "year": 1971,
+    "month": 2,
+    "day": 22,
+    "hour": 0,
+    "minute": 21,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛亥庚寅戊寅壬子",
+    "lunar_date_str": "1971-01-27 00:21:00",
+    "true_solar_time": "1971-02-22 00:21:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "92e6235bfb23268e4818803340bdd718d684f7681edd4bd4641a99478a8fc37f",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2073,
+     "sha256": "e0502966346a605d98d46711fabc5de0cba4bf69068a8661a017a8821c7403de"
+    },
+    {
+     "kind": "yearly",
+     "year": 2024,
+     "sha256": "b91227cde601839c1ff7aa58d496bc3a465b7a177e3dd58c06b501de2fe4284e"
+    },
+    {
+     "kind": "monthly",
+     "year": 2013,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2013-07-08",
+      "end_date": "2013-08-06",
+      "doujun": "巳",
+      "ming_branch": "戌"
+     },
+     "sha256": "8a2a41c1bb6ac569700e06d41e62516b1c5dd95cdb975c679d95ba8fa9b17533"
+    }
+   ]
+  },
+  {
+   "id": "r060_20070515T2340_女",
+   "args": {
+    "year": 2007,
+    "month": 5,
+    "day": 15,
+    "hour": 23,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丁亥乙巳己酉乙亥",
+    "lunar_date_str": "2007-03-29 21:34:08",
+    "true_solar_time": "2007-05-15 21:34:08",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "a85f59c1ff30527ed08d10a2036404bbd72db64e4d676e5a428a5d53bdd7cd68",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2079,
+     "sha256": "4861e56d2ae872f6bcea51d16be038af1c7aa5553141c936562bc5fc05bdd927"
+    },
+    {
+     "kind": "yearly",
+     "year": 2116,
+     "sha256": "f56d9d64ef754b1f4f339a20a718603edbe8fe62bce875e2dd140cabc20ec2d7"
+    },
+    {
+     "kind": "monthly",
+     "year": 2086,
+     "month": 1,
+     "is_leap": false,
+     "meta": {
+      "month": 1,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "寅",
+      "label": "正月",
+      "start_date": "2086-02-14",
+      "end_date": "2086-03-14",
+      "doujun": "卯",
+      "ming_branch": "卯"
+     },
+     "sha256": "b7c3571e0f3fba00dd2764795d505865bf938b3a3986366263b1a4f3f7e1dbea"
+    }
+   ]
+  },
+  {
+   "id": "r061_20030110T0026_男",
+   "args": {
+    "year": 2003,
+    "month": 1,
+    "day": 10,
+    "hour": 0,
+    "minute": 26,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "壬午癸丑癸未壬子",
+    "lunar_date_str": "2002-12-08 00:26:00",
+    "true_solar_time": "2003-01-10 00:26:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "2aa05272546a89e34342e5c7531f11f8387033f7943c6d9c4b639405d61aab01",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2122,
+     "sha256": "8ef5c36951dcf3f3ada01d55e3b7fc3cfb3c322c0d5ed612144816caa06f34f2"
+    },
+    {
+     "kind": "yearly",
+     "year": 2039,
+     "sha256": "8d647f8ae64a7f8e9f7f2003d1edeb5a8ba1184cdd65c7b425b96eb4371b8f6b"
+    },
+    {
+     "kind": "monthly",
+     "year": 2117,
+     "month": 1,
+     "is_leap": false,
+     "meta": {
+      "month": 1,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "寅",
+      "label": "正月",
+      "start_date": "2117-02-02",
+      "end_date": "2117-03-02",
+      "doujun": "寅",
+      "ming_branch": "寅"
+     },
+     "sha256": "27d659b16653fd9967a7d8e25b65c691c9ba9bda8d7e4fc48058809b0c936f4a"
+    }
+   ]
+  },
+  {
+   "id": "r062_19710602T2130_男",
+   "args": {
+    "year": 1971,
+    "month": 6,
+    "day": 2,
+    "hour": 21,
+    "minute": 30,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛亥癸巳戊午壬戌",
+    "lunar_date_str": "1971-05-10 19:22:41",
+    "true_solar_time": "1971-06-02 19:22:41",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "342a66a2f5e255990064c75310829aa0b8dfd73740a95612f55f9124c1871b19",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2080,
+     "sha256": "09ca2e967e5a378a7366174938a97e14ba960057e18e1dbe5a8b4adde0b80f7f"
+    },
+    {
+     "kind": "yearly",
+     "year": 2088,
+     "sha256": "34f85268e9bd433b9368e18686641113c75396da97546a4beb88eae2dd28d835"
+    },
+    {
+     "kind": "monthly",
+     "year": 2067,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2067-12-06",
+      "end_date": "2068-01-04",
+      "doujun": "巳",
+      "ming_branch": "卯"
+     },
+     "sha256": "4b318c39aa91576043cb5b9765088eb7640f0c18f4455040b18c31dfbf2b6cf4"
+    }
+   ]
+  },
+  {
+   "id": "r063_19390820T0052_女",
+   "args": {
+    "year": 1939,
+    "month": 8,
+    "day": 20,
+    "hour": 0,
+    "minute": 52,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "己卯壬申己丑甲子",
+    "lunar_date_str": "1939-07-06 00:52:00",
+    "true_solar_time": "1939-08-20 00:52:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "817e6399fb1e51304558a44af26b1dc34f4292f0b010e83cd75706ce001afa53",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1992,
+     "sha256": "07768f7cf062751e7d165235ca0aebe867c4313fb00c885f11055dc62fbb63ec"
+    },
+    {
+     "kind": "yearly",
+     "year": 1953,
+     "sha256": "2c17df87b288306ce0a3574296000385b011b8b1f5699cc2d98c0248c29bbc68"
+    },
+    {
+     "kind": "monthly",
+     "year": 2041,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2041-07-28",
+      "end_date": "2041-08-26",
+      "doujun": "卯",
+      "ming_branch": "酉"
+     },
+     "sha256": "a167b0444b12f36592ba3cc9e2774f5f1ec7529cb45bf8e3f84d5cc4f25a25aa"
+    }
+   ]
+  },
+  {
+   "id": "r064_20291125T2354_男",
+   "args": {
+    "year": 2029,
+    "month": 11,
+    "day": 25,
+    "hour": 23,
+    "minute": 54,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己酉乙亥庚申丙子",
+    "lunar_date_str": "2029-10-20 23:52:40",
+    "true_solar_time": "2029-11-25 23:52:40",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "1b0d81463347b4eaa2efa8f8fe3b77ddc0dcb4602627e6f5fe26c1a3245be691",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2148,
+     "sha256": "6a83f0718030d6fb66604322d9050d1336fefe3d41ef45c0863ea8ac14237f66"
+    },
+    {
+     "kind": "yearly",
+     "year": 2035,
+     "sha256": "804ee41a1a07f6bb7bbfeedcb6dd89bdde6bc4fd9aeaf16de33b939ada2dada7"
+    },
+    {
+     "kind": "monthly",
+     "year": 2123,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2123-11-18",
+      "end_date": "2123-12-17",
+      "doujun": "戌",
+      "ming_branch": "未"
+     },
+     "sha256": "ab62fed70ef8b3850225c52f42d13a23b316419166ac09de64d5a5943055e6f1"
+    }
+   ]
+  },
+  {
+   "id": "r065_19051022T0040_女",
+   "args": {
+    "year": 1905,
+    "month": 10,
+    "day": 22,
+    "hour": 0,
+    "minute": 40,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙巳丙戌甲午甲子",
+    "lunar_date_str": "1905-09-24 00:40:00",
+    "true_solar_time": "1905-10-22 00:40:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "7a026a11d63bc42c59c41a5e658066ffce8c0b887c5f8b39e9d450fc9be75dea",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2008,
+     "sha256": "9e46143ad5064802a9ed70ccab121dacf76dc1287dd0c883a826fa5a99c4d09c"
+    },
+    {
+     "kind": "yearly",
+     "year": 1985,
+     "sha256": "0980238e0f4455618fb2a16149db3e90d05230a72dd6ab33e6e2b6205b231ac8"
+    },
+    {
+     "kind": "monthly",
+     "year": 1910,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1910-04-10",
+      "end_date": "1910-05-08",
+      "doujun": "寅",
+      "ming_branch": "辰"
+     },
+     "sha256": "91452af70570110d6aee5bad8195e2d7c6510823b6bcdad84bf361dfc32d202b"
+    }
+   ]
+  },
+  {
+   "id": "r066_19090121T2327_男",
+   "args": {
+    "year": 1909,
+    "month": 1,
+    "day": 21,
+    "hour": 23,
+    "minute": 27,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊申乙丑辛巳己亥",
+    "lunar_date_str": "1908-12-30 22:49:17",
+    "true_solar_time": "1909-01-21 22:49:17",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "9aff2833f894111070968d9d8bed42cb282880397b76c936fd3a2d715150ab28",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1997,
+     "sha256": "59f66cc1ad97c2e089de80ba8826b79715267a74e3e3c7f538253f503081a67e"
+    },
+    {
+     "kind": "yearly",
+     "year": 1942,
+     "sha256": "d207c6ebf0cedf9aba4ca54f9583bc365ae0c1f45e21d37900c2a3fcee08cf62"
+    },
+    {
+     "kind": "monthly",
+     "year": 1975,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1975-04-12",
+      "end_date": "1975-05-10",
+      "doujun": "卯",
+      "ming_branch": "巳"
+     },
+     "sha256": "b22d6ef1e3ec7f9a50412c3865591cd71af3848f8890a77958f6c7e5b0865ca5"
+    }
+   ]
+  },
+  {
+   "id": "r067_19620928T2338_男",
+   "args": {
+    "year": 1962,
+    "month": 9,
+    "day": 28,
+    "hour": 23,
+    "minute": 38,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "壬寅己酉庚午丙子",
+    "lunar_date_str": "1962-08-30 23:38:00",
+    "true_solar_time": "1962-09-28 23:38:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "f4e3c1d0d061666f5d7e95652429a48653723a13aa65c2984672b75a479aa7be",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1991,
+     "sha256": "ead8062eb875fb2596471c97a75ddf3218572eed7731808009b64ee5c10ff629"
+    },
+    {
+     "kind": "yearly",
+     "year": 1997,
+     "sha256": "ce032af37dbfeeb59adaeb3a87d54e7a9a42fe3157e759cf4eb3188d5e2a5c59"
+    },
+    {
+     "kind": "monthly",
+     "year": 2042,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2042-12-12",
+      "end_date": "2043-01-10",
+      "doujun": "卯",
+      "ming_branch": "丑"
+     },
+     "sha256": "d130802e80876108da997bf482d068cdde40b69fd302524be393fdc301867cb7"
+    }
+   ]
+  },
+  {
+   "id": "r068_19270410T2336_男",
+   "args": {
+    "year": 1927,
+    "month": 4,
+    "day": 10,
+    "hour": 23,
+    "minute": 36,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁卯甲辰乙亥丙子",
+    "lunar_date_str": "1927-03-09 23:38:45",
+    "true_solar_time": "1927-04-10 23:38:45",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "510e4a6bb846b92d4a954c3c60c9bc81be442f867138a47cc0366014e97a8bea",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2042,
+     "sha256": "8b136bc280923cb97a06d37917f06b3ae0dd76e5acb4bf1da0b6b8dded60edcf"
+    },
+    {
+     "kind": "yearly",
+     "year": 1993,
+     "sha256": "ca6e267a276ec6e89b9d141ee9630f4ef24d6a3274b92c2fcd4c9680786209e0"
+    },
+    {
+     "kind": "monthly",
+     "year": 1981,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1981-04-05",
+      "end_date": "1981-05-03",
+      "doujun": "未",
+      "ming_branch": "酉"
+     },
+     "sha256": "b53676fd637cbb6e75c71756e389a8836d5168031ad87f374d8d7c588ad941fe"
+    }
+   ]
+  },
+  {
+   "id": "r069_20010609T0024_女",
+   "args": {
+    "year": 2001,
+    "month": 6,
+    "day": 9,
+    "hour": 0,
+    "minute": 24,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛巳甲午癸卯壬子",
+    "lunar_date_str": "2001-04-18 00:24:00",
+    "true_solar_time": "2001-06-09 00:24:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "cc4400af07d9e6c680e57982ed76fabeb03dc70931492ef08745e54001210f86",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2062,
+     "sha256": "f6ced70ad716cd18a8b0cec182c0dffc601d7eeac5816889078530368e113493"
+    },
+    {
+     "kind": "yearly",
+     "year": 2040,
+     "sha256": "7dc7e188eb1bfc5a169cac0ce0be8737fa3990bce6f7d50155b269a2dbe5f20b"
+    },
+    {
+     "kind": "monthly",
+     "year": 2091,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2091-04-19",
+      "end_date": "2091-05-17",
+      "doujun": "申",
+      "ming_branch": "戌"
+     },
+     "sha256": "d8f28ae0797b460c94305d51c1f1394ed3cb936d0d363e01bdd3ea1e88cf8a94"
+    }
+   ]
+  },
+  {
+   "id": "r070_19780108T2318_男",
+   "args": {
+    "year": 1978,
+    "month": 1,
+    "day": 8,
+    "hour": 23,
+    "minute": 18,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁巳癸丑庚午丁亥",
+    "lunar_date_str": "1977-11-29 21:01:55",
+    "true_solar_time": "1978-01-08 21:01:55",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "e86bd18d9b3117c7bc81d7f4d6e12dfa02bee06202531d401550c50b87248455",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2043,
+     "sha256": "72adf387343d5271e5e4e1eb704fdbe940f984225cd322cb99d68a8bd22e717c"
+    },
+    {
+     "kind": "yearly",
+     "year": 2050,
+     "sha256": "9e00171262e35e881fd63c3988a917dd9427b0657b2bd04ec48ea922cb04c2bf"
+    },
+    {
+     "kind": "monthly",
+     "year": 2058,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2058-08-19",
+      "end_date": "2058-09-17",
+      "doujun": "卯",
+      "ming_branch": "酉"
+     },
+     "sha256": "44981b4e005a1c56bf347bc88de9b999ac60d2741d6f62de6f65b8b9d7a33267"
+    }
+   ]
+  },
+  {
+   "id": "r071_20100128T0053_女",
+   "args": {
+    "year": 2010,
+    "month": 1,
+    "day": 28,
+    "hour": 0,
+    "minute": 53,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "己丑丁丑戊寅壬子",
+    "lunar_date_str": "2009-12-14 00:53:00",
+    "true_solar_time": "2010-01-28 00:53:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "5b6e51aa7609bb6de56f94191a18f9c4c4d77d74850b9b9e6378dc07ae5d56d4",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2022,
+     "sha256": "21b2af4158a8a5cf43ca0c0f166b9617bc09e7ac7b1c63604721709fcba18e20"
+    },
+    {
+     "kind": "yearly",
+     "year": 2078,
+     "sha256": "a7e1290581c856a3206dfa468a15025600f48eefcd5880b9e4439daf796da5c6"
+    },
+    {
+     "kind": "monthly",
+     "year": 2066,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2066-05-24",
+      "end_date": "2066-06-22",
+      "doujun": "亥",
+      "ming_branch": "卯"
+     },
+     "sha256": "440103a131bb56b5229df212a6eff17bcfd246777df9453caf0dceb69a3cf950"
+    }
+   ]
+  },
+  {
+   "id": "r072_19310511T0000_女",
+   "args": {
+    "year": 1931,
+    "month": 5,
+    "day": 11,
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛未癸巳丙寅己亥",
+    "lunar_date_str": "1931-03-24 21:54:25",
+    "true_solar_time": "1931-05-11 21:54:25",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "c5fb8635e77e6ee204a4be86cb328aa8fca7af75bcada0b171a33f7da3d5f9a9",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2050,
+     "sha256": "32ba64e68c03ae497675aa4b2c9d11451b0a5cacf9838c0d808a407f9119572f"
+    },
+    {
+     "kind": "yearly",
+     "year": 1953,
+     "sha256": "f369315ee4f5cd77371448ce49bc7f61392bd8e19e2ff29afcde104046968bf9"
+    },
+    {
+     "kind": "monthly",
+     "year": 2001,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2001-11-15",
+      "end_date": "2001-12-14",
+      "doujun": "寅",
+      "ming_branch": "亥"
+     },
+     "sha256": "42e8b16d32686b54a51e9dce9fae9d48159b72af19ab897bc856c8bb15c3a3ea"
+    }
+   ]
+  },
+  {
+   "id": "r073_19790909T2328_女",
+   "args": {
+    "year": 1979,
+    "month": 9,
+    "day": 9,
+    "hour": 23,
+    "minute": 28,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "己未癸酉庚辰丙子",
+    "lunar_date_str": "1979-07-18 23:28:00",
+    "true_solar_time": "1979-09-09 23:28:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "beaa0483f8a66d218c9c352df7346db27cb4e55a94af7995fae013fb1bec473b",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2097,
+     "sha256": "ce3a77f46ea18fa34ffd81ebade720c7466918d41d4b5f61ff65501dda1e3c62"
+    },
+    {
+     "kind": "yearly",
+     "year": 2005,
+     "sha256": "8bca950233bafb70eefc9667878dee0176940fe150834080bb4e6de7a8f67de0"
+    },
+    {
+     "kind": "monthly",
+     "year": 2068,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2068-09-26",
+      "end_date": "2068-10-25",
+      "doujun": "午",
+      "ming_branch": "寅"
+     },
+     "sha256": "2e0d14f3e2a3a4bb96cf9b72e7c1ddd42ed7ebc5bd63c79b976b15ecec32741e"
+    }
+   ]
+  },
+  {
+   "id": "r074_20261105T2331_女",
+   "args": {
+    "year": 2026,
+    "month": 11,
+    "day": 5,
+    "hour": 23,
+    "minute": 31,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙午戊戌癸未癸亥",
+    "lunar_date_str": "2026-09-27 21:37:53",
+    "true_solar_time": "2026-11-05 21:37:53",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "e11033237be5c4840011086f0f6aac61e5e5a0becaff093638f3d5879f928fe3",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2029,
+     "sha256": "6b5280ff5bb7abd5c249627b9f046dc0b6835cb52218a8c325632a8ae7df2a2d"
+    },
+    {
+     "kind": "yearly",
+     "year": 2119,
+     "sha256": "9b95a869f25f3f58a7d635b7df87645f833ceef578d6d35accd51802ad519929"
+    },
+    {
+     "kind": "monthly",
+     "year": 2030,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2030-04-03",
+      "end_date": "2030-05-01",
+      "doujun": "丑",
+      "ming_branch": "卯"
+     },
+     "sha256": "e0079388e6c343ed37c2b9c3fb67ee7ff7fa3714a93923d3808e88b98a20749d"
+    }
+   ]
+  },
+  {
+   "id": "r075_19211224T0052_女",
+   "args": {
+    "year": 1921,
+    "month": 12,
+    "day": 24,
+    "hour": 0,
+    "minute": 52,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛酉庚子辛酉戊子",
+    "lunar_date_str": "1921-11-26 00:52:00",
+    "true_solar_time": "1921-12-24 00:52:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "d25728b524f071049117594d5bb9545ffae9019033b06eaec0a31bb84bcb8bb3",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1926,
+     "sha256": "6105b89a12278fc335ea43a0a1267e5e3e3a8fc55c996cf2415a990783cb3d42"
+    },
+    {
+     "kind": "yearly",
+     "year": 2022,
+     "sha256": "d49ddcd21f14c3f17823f231f7138e08323f15fb89cb41df5de8f9791fecd02e"
+    },
+    {
+     "kind": "monthly",
+     "year": 1933,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "1933-09-20",
+      "end_date": "1933-10-18",
+      "doujun": "亥",
+      "ming_branch": "午"
+     },
+     "sha256": "5d0849e5c34726f908d49e8f65b2861a00ad3010611bed6581c169421648c546"
+    }
+   ]
+  },
+  {
+   "id": "r076_19251218T1520_女",
+   "args": {
+    "year": 1925,
+    "month": 12,
+    "day": 18,
+    "hour": 15,
+    "minute": 20,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙丑戊子丙子乙未",
+    "lunar_date_str": "1925-11-03 13:14:20",
+    "true_solar_time": "1925-12-18 13:14:20",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "80acd53830f9e4305fd4a2a113a34fc97f474526a8fe4452075f68f33aeaa78a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1955,
+     "sha256": "a0c49a7727374602457d81109b2d2b9c9323a1cca4d8b64b26c9c58903505419"
+    },
+    {
+     "kind": "yearly",
+     "year": 2040,
+     "sha256": "2bc433045a3f0687d5c458aed22d80def0accee9e7e1af0fa35c8b6939546bc0"
+    },
+    {
+     "kind": "monthly",
+     "year": 2042,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2042-07-17",
+      "end_date": "2042-08-15",
+      "doujun": "未",
+      "ming_branch": "子"
+     },
+     "sha256": "0409a6836258b10245aa1f6c5dd52405d6b378e9377f5c0998fea8aab17b1bf6"
+    }
+   ]
+  },
+  {
+   "id": "r077_20190319T0045_男",
+   "args": {
+    "year": 2019,
+    "month": 3,
+    "day": 19,
+    "hour": 0,
+    "minute": 45,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己亥丁卯乙卯丙子",
+    "lunar_date_str": "2019-02-13 00:45:00",
+    "true_solar_time": "2019-03-19 00:45:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "1b514d88ec2591b124b40d75df1eeae4291a3761e1f90a781928880ed736eaed",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2137,
+     "sha256": "349664c8119f35535d0e58535659a6b2f7045fa129a2f588e069addddf7e1eb4"
+    },
+    {
+     "kind": "yearly",
+     "year": 2116,
+     "sha256": "553ad960165523237c053e17eabedc76d80ebed0a3f08ee917af6dae9bf6f6b5"
+    },
+    {
+     "kind": "monthly",
+     "year": 2060,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2060-06-28",
+      "end_date": "2060-07-26",
+      "doujun": "卯",
+      "ming_branch": "申"
+     },
+     "sha256": "22827254b93912a705e6fca25c146e6ca3a952dd79e7f587db8a69a9fb813b8d"
+    }
+   ]
+  },
+  {
+   "id": "r078_19170119T2355_女",
+   "args": {
+    "year": 1917,
+    "month": 1,
+    "day": 19,
+    "hour": 23,
+    "minute": 55,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙辰辛丑辛酉己亥",
+    "lunar_date_str": "1916-12-26 21:35:07",
+    "true_solar_time": "1917-01-19 21:35:07",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "6202af67c310309048cc9b9e9c422185ad6402a7a5a7dca887cac087c83d1861",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1927,
+     "sha256": "5bfa67f9cce3d5622ef1bed1897dd08ae6001e1a9c78f58a5a3e259f3c65d6f6"
+    },
+    {
+     "kind": "yearly",
+     "year": 1966,
+     "sha256": "08d7350e00ebddc2f34a7614673af5ee1ab031d1e97a70203f43b30d978b1153"
+    },
+    {
+     "kind": "monthly",
+     "year": 1981,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "1981-09-28",
+      "end_date": "1981-10-27",
+      "doujun": "酉",
+      "ming_branch": "巳"
+     },
+     "sha256": "0c6aeb4e2598ccb869eabf1996650595b0fd72a29f07ba4387cd259d3563c5e0"
+    }
+   ]
+  },
+  {
+   "id": "r079_19770117T2346_男",
+   "args": {
+    "year": 1977,
+    "month": 1,
+    "day": 17,
+    "hour": 23,
+    "minute": 46,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙辰辛丑乙亥丙子",
+    "lunar_date_str": "1976-11-28 23:46:00",
+    "true_solar_time": "1977-01-17 23:46:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "f8a2766cb788048a995910e24fdfe6056c434cf250b5c36813bd46f1e3c04d5e",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2037,
+     "sha256": "a98e4b647a856fd09f8f2b42ce4971327ef85a6d5b942854c7f512e14b106eab"
+    },
+    {
+     "kind": "yearly",
+     "year": 2007,
+     "sha256": "05161f86df93ce926b496d08e735e7a4282d66a9dee6a50ff96f5808453c1c9a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2036,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2036-12-17",
+      "end_date": "2037-01-15",
+      "doujun": "午",
+      "ming_branch": "辰"
+     },
+     "sha256": "3dd1854e1a1205789dd1c95ab3095b34ac15384be1eb4962e93e1f4ec583d12f"
+    }
+   ]
+  },
+  {
+   "id": "r080_19801225T2346_男",
+   "args": {
+    "year": 1980,
+    "month": 12,
+    "day": 25,
+    "hour": 23,
+    "minute": 46,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚申戊子癸酉壬子",
+    "lunar_date_str": "1980-11-19 23:31:32",
+    "true_solar_time": "1980-12-25 23:31:32",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "b719b7065f26b82437adf9cb1fc09c7240e42ddac4f2bb84f59e8d661f6d5a06",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2038,
+     "sha256": "00dbd1d1c70bafbaee42b9cfb84dd10b607c46cf4fb39d35e700f1f1279a3689"
+    },
+    {
+     "kind": "yearly",
+     "year": 2078,
+     "sha256": "9bacf1fd77bdb1b4db5d83b38767b9849458a621ccc3dd30228184c4eab8b0fd"
+    },
+    {
+     "kind": "monthly",
+     "year": 2041,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "2041-03-02",
+      "end_date": "2041-03-31",
+      "doujun": "亥",
+      "ming_branch": "子"
+     },
+     "sha256": "341e426a7bb377605cb40e15cdf4db40349995f5ff03de61a0713aac9e9dd1c7"
+    }
+   ]
+  },
+  {
+   "id": "r081_20011018T1855_男",
+   "args": {
+    "year": 2001,
+    "month": 10,
+    "day": 18,
+    "hour": 18,
+    "minute": 55,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛巳戊戌甲寅癸酉",
+    "lunar_date_str": "2001-09-02 18:55:00",
+    "true_solar_time": "2001-10-18 18:55:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "26771d6c2c8fe4933b4e12a7eac1e0bfba3cbdc0b49ac96321fec73436e9e60f",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2080,
+     "sha256": "8bd6af86f9509ecaaacdb845c3e4dbfe998efb22b47747b983107e662c1f4059"
+    },
+    {
+     "kind": "yearly",
+     "year": 2117,
+     "sha256": "a63e7867f1ccdcccf76f266109fcf1f36c883cc1641443c86bb55c952cb13c9d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2091,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2091-06-17",
+      "end_date": "2091-07-15",
+      "doujun": "子",
+      "ming_branch": "辰"
+     },
+     "sha256": "0ba24f7c88661abdcf7627bf3ba0f2e692c1a4de80ba14bb541793e51fec50b3"
+    }
+   ]
+  },
+  {
+   "id": "r082_19840416T2224_女",
+   "args": {
+    "year": 1984,
+    "month": 4,
+    "day": 16,
+    "hour": 22,
+    "minute": 24,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "甲子戊辰庚辰丙戌",
+    "lunar_date_str": "1984-03-16 20:14:39",
+    "true_solar_time": "1984-04-16 20:14:39",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "e41fa77fe185f9e49eeda9a0d8b0af5a58c9fe26234619800f9aa04f114cf03d",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2033,
+     "sha256": "d95c4e3be60e11dc5a15d0af32269ac351a1c249559153772078732f6fb7f86b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2005,
+     "sha256": "78f66d90243490a906b29898a6e19c0353e8e95777bff466a57d4987ef91c53d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2084,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2084-11-28",
+      "end_date": "2084-12-26",
+      "doujun": "子",
+      "ming_branch": "戌"
+     },
+     "sha256": "e5b8c67885b4e490e567117157bc1513e1780802291300a1a074ce14d3248182"
+    }
+   ]
+  },
+  {
+   "id": "r083_20170211T0000_男",
+   "args": {
+    "year": 2017,
+    "month": 2,
+    "day": 11,
+    "hour": 0,
+    "minute": 0,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁酉壬寅己巳甲子",
+    "lunar_date_str": "2017-01-15 00:00:00",
+    "true_solar_time": "2017-02-11 00:00:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "63e133fd1b5e82751117fcf5d975894ac9e0d8e6edcb1e06c740a9c7438f26e8",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2127,
+     "sha256": "934d7361e7e4c79545b853f0dafd84e881ec47e110cdb2cbb5eaebb515db8132"
+    },
+    {
+     "kind": "yearly",
+     "year": 2137,
+     "sha256": "da5059452d33d198b37b0fe8b18baefaf0a32877db86611e188c5ab33986a107"
+    },
+    {
+     "kind": "monthly",
+     "year": 2032,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2032-09-05",
+      "end_date": "2032-10-03",
+      "doujun": "子",
+      "ming_branch": "未"
+     },
+     "sha256": "54e05088ff7273da71041edcfcaacbc98488b4e2cab17248ca72b47f981d8ca7"
+    }
+   ]
+  },
+  {
+   "id": "r084_19060312T2332_女",
+   "args": {
+    "year": 1906,
+    "month": 3,
+    "day": 12,
+    "hour": 23,
+    "minute": 32,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙午辛卯丙辰戊子",
+    "lunar_date_str": "1906-02-18 23:08:03",
+    "true_solar_time": "1906-03-12 23:08:03",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "e9dce44c557c657b7d3cda3c16059f70139f4ad8f54ec7658c99e4081461cf4e",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2006,
+     "sha256": "6d0985009bbd76ba7eaa8131eb489306413737e581ded76f1730a3dbba0d2d65"
+    },
+    {
+     "kind": "yearly",
+     "year": 1941,
+     "sha256": "65a395806d5e93c67be81435fe7148f94bfafcba120dbf85f3c8eeb0f25cfea0"
+    },
+    {
+     "kind": "monthly",
+     "year": 2008,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2008-07-03",
+      "end_date": "2008-07-31",
+      "doujun": "亥",
+      "ming_branch": "辰"
+     },
+     "sha256": "ee7e1b74dbc292c62dc906d78415a77b19e9c76fce615c282d63aa1bfb17a751"
+    }
+   ]
+  },
+  {
+   "id": "r085_19331020T0011_女",
+   "args": {
+    "year": 1933,
+    "month": 10,
+    "day": 20,
+    "hour": 0,
+    "minute": 11,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "癸酉壬戌己未甲子",
+    "lunar_date_str": "1933-09-02 00:11:00",
+    "true_solar_time": "1933-10-20 00:11:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "756cac9c7696864b717d6a19bbee7be9aae422ed85729862a592ad78609bce74",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1937,
+     "sha256": "5da1e8d88821da81be7bad9f1b4044b6c5daeb5adcc9c66bdd8cd9e1b1692468"
+    },
+    {
+     "kind": "yearly",
+     "year": 1975,
+     "sha256": "133c942ac601fdbfb64d8901ba2d8e7288fa7cd2884701ac21f912f8030d2da4"
+    },
+    {
+     "kind": "monthly",
+     "year": 1983,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "1983-11-05",
+      "end_date": "1983-12-03",
+      "doujun": "卯",
+      "ming_branch": "子"
+     },
+     "sha256": "b1538ca41a8341ae177aff736827c6334ea3c67826099fb942614b97c654d31d"
+    }
+   ]
+  },
+  {
+   "id": "r086_20251227T2344_女",
+   "args": {
+    "year": 2025,
+    "month": 12,
+    "day": 27,
+    "hour": 23,
+    "minute": 44,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙巳戊子庚午丁亥",
+    "lunar_date_str": "2025-11-08 21:33:25",
+    "true_solar_time": "2025-12-27 21:33:25",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "d17cbe372b9e4da753967505796aaf13c2190f6e5362713f6104a3b520f444ca",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2092,
+     "sha256": "16c7213e9e1429369f5679afaba538f0749b5557503aa950fd476d9104a041c8"
+    },
+    {
+     "kind": "yearly",
+     "year": 2147,
+     "sha256": "e5580888379e243f432e02bd35025efbc4ed1970c56b52658ae965719ed6fd9a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2120,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2120-11-21",
+      "end_date": "2120-12-19",
+      "doujun": "巳",
+      "ming_branch": "寅"
+     },
+     "sha256": "82fc19e326e9e1076a064df1b239a43881d0c41153960ed986a3e8607f5573fb"
+    }
+   ]
+  },
+  {
+   "id": "r087_20271105T2341_男",
+   "args": {
+    "year": 2027,
+    "month": 11,
+    "day": 5,
+    "hour": 23,
+    "minute": 41,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁未庚戌己丑甲子",
+    "lunar_date_str": "2027-10-08 23:41:00",
+    "true_solar_time": "2027-11-05 23:41:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "ce67d1ee2f902de801985dc82d36dcfbf7cfbf98abf776a8e51a39c849b36723",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2042,
+     "sha256": "c0bb28434e06579f113899f798ef8b38044f3a6f6ff3d1348b31fab2edb7881f"
+    },
+    {
+     "kind": "yearly",
+     "year": 2100,
+     "sha256": "de503375c80d109a512f7bb32e6a54ce01b9019dffe4769659259333e3717714"
+    },
+    {
+     "kind": "monthly",
+     "year": 2149,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2149-06-06",
+      "end_date": "2149-07-04",
+      "doujun": "子",
+      "ming_branch": "辰"
+     },
+     "sha256": "aecd93321cc15e5d637c2ae7d7469d105412067bd02d0da0cf88f531b7351e1d"
+    }
+   ]
+  },
+  {
+   "id": "r088_20030104T1312_男",
+   "args": {
+    "year": 2003,
+    "month": 1,
+    "day": 4,
+    "hour": 13,
+    "minute": 12,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "壬午壬子丁丑乙巳",
+    "lunar_date_str": "2002-12-02 10:57:45",
+    "true_solar_time": "2003-01-04 10:57:45",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "18015d105e4d04c6718efb9598aa760e12b85e66921b11091841a766346793c3",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2046,
+     "sha256": "a9976f28a0d93115acd5ad9d12faca02251698c20a31686812e29bf6430de2f7"
+    },
+    {
+     "kind": "yearly",
+     "year": 2100,
+     "sha256": "78e2190ab61fb7d674f95b1fcf40b1936ee7391f95e0fa505f0549da085c21c3"
+    },
+    {
+     "kind": "monthly",
+     "year": 2035,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "2035-03-10",
+      "end_date": "2035-04-07",
+      "doujun": "酉",
+      "ming_branch": "戌"
+     },
+     "sha256": "4facd83f27ce1d1e8c5c0eb39c3b16b6c61d125389feb6bb47cd85d02f336b93"
+    }
+   ]
+  },
+  {
+   "id": "r089_19160926T2310_女",
+   "args": {
+    "year": 1916,
+    "month": 9,
+    "day": 26,
+    "hour": 23,
+    "minute": 10,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙辰丁酉丁卯庚子",
+    "lunar_date_str": "1916-08-29 23:10:00",
+    "true_solar_time": "1916-09-26 23:10:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "c4472d76943075de312049581ae84007364f1eeb9424a6fe51810ecf0cba6bb5",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1977,
+     "sha256": "856283898a2c86a42f4eeb6482974f5b917156b46248f3d9cea47cbe11797292"
+    },
+    {
+     "kind": "yearly",
+     "year": 1987,
+     "sha256": "3b78a0c45c5765b271ddace8c6befdf7041f2f9bb771061a9188c74baa3c990b"
+    },
+    {
+     "kind": "monthly",
+     "year": 1942,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "1942-11-08",
+      "end_date": "1942-12-07",
+      "doujun": "亥",
+      "ming_branch": "申"
+     },
+     "sha256": "7524c22a0615d46db1817c04fddd0481548f79cae37d4022756625b83360aad2"
+    }
+   ]
+  },
+  {
+   "id": "r090_19650512T0526_男",
+   "args": {
+    "year": 1965,
+    "month": 5,
+    "day": 12,
+    "hour": 5,
+    "minute": 26,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "乙巳辛巳丙寅庚寅",
+    "lunar_date_str": "1965-04-12 04:33:49",
+    "true_solar_time": "1965-05-12 04:33:49",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "c1b1da7021d23de54d3e848245f426978b3916c973cefa9a33c57bce40e27246",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2007,
+     "sha256": "ada8635457bf9242a36f2e953a72ee655e0db4c1d39712226eff446eb5abdc06"
+    },
+    {
+     "kind": "yearly",
+     "year": 2009,
+     "sha256": "82650b694babdb5fdc1a449df5fbbb78358174e6aff5688090556bb71eead4d1"
+    },
+    {
+     "kind": "monthly",
+     "year": 1999,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1999-04-16",
+      "end_date": "1999-05-14",
+      "doujun": "寅",
+      "ming_branch": "辰"
+     },
+     "sha256": "52059f0b696fda5dd7a094cb2af60d885f2633d41b8a9bba09c2c547a64191d6"
+    }
+   ]
+  },
+  {
+   "id": "r091_19760809T2316_男",
+   "args": {
+    "year": 1976,
+    "month": 8,
+    "day": 9,
+    "hour": 23,
+    "minute": 16,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙辰丙申甲午甲子",
+    "lunar_date_str": "1976-07-14 23:16:00",
+    "true_solar_time": "1976-08-09 23:16:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "8d0bd3c7665db58caaf08f9da45b89b4d5c86270357050cc657d907a053d50e5",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2081,
+     "sha256": "e65e234e0f322e8a34c024b38a098de028e7570b8f00610f46cfc922afa49ac8"
+    },
+    {
+     "kind": "yearly",
+     "year": 2074,
+     "sha256": "c257add52e23b73858ce8cd8979d9c01187ce57bf276c6e98e9747d9f6fe8513"
+    },
+    {
+     "kind": "monthly",
+     "year": 2098,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2098-09-25",
+      "end_date": "2098-10-23",
+      "doujun": "子",
+      "ming_branch": "申"
+     },
+     "sha256": "5ce9b91877d48cacd31ff0f72011e6fe65ee4e33801c28a224029ad84726de59"
+    }
+   ]
+  },
+  {
+   "id": "r092_19581104T0042_女",
+   "args": {
+    "year": 1958,
+    "month": 11,
+    "day": 4,
+    "hour": 0,
+    "minute": 42,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "戊戌壬戌乙酉丙子",
+    "lunar_date_str": "1958-09-23 00:31:36",
+    "true_solar_time": "1958-11-04 00:31:36",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "c2e26d34d3d64c7519619467429287750ca410bbea1bdf9caed7a573144ad0e5",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2004,
+     "sha256": "b71a445edbee8fb871ba18c7e0c1d2fc1476541bac075bd805b83fe66b455879"
+    },
+    {
+     "kind": "yearly",
+     "year": 2056,
+     "sha256": "98d0763d8f3d59952aaa098347bab6d1dd61bb993dba609a47280c1632c9193f"
+    },
+    {
+     "kind": "monthly",
+     "year": 2016,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2016-04-07",
+      "end_date": "2016-05-06",
+      "doujun": "子",
+      "ming_branch": "寅"
+     },
+     "sha256": "b66d67b787c8674c4d5fb817d344db469777f2cbcf2bd631c82c2e48b58908a3"
+    }
+   ]
+  },
+  {
+   "id": "r093_19030424T0056_男",
+   "args": {
+    "year": 1903,
+    "month": 4,
+    "day": 24,
+    "hour": 0,
+    "minute": 56,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸卯丙辰壬午庚子",
+    "lunar_date_str": "1903-03-27 00:56:00",
+    "true_solar_time": "1903-04-24 00:56:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "9a1b93b2a76559e2ea093fd7498eca5cecc2e50a4abd87b6fec2437a041945a0",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1954,
+     "sha256": "23b7e6b23bab07352d450e272f650c47f21589d750fc7f7d3f65e50881ea52d9"
+    },
+    {
+     "kind": "yearly",
+     "year": 1937,
+     "sha256": "76a3c6cc014129c9b60dccb820016e297029d911a833e860ff752a7b8c9943d0"
+    },
+    {
+     "kind": "monthly",
+     "year": 1957,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "1957-03-02",
+      "end_date": "1957-03-30",
+      "doujun": "未",
+      "ming_branch": "申"
+     },
+     "sha256": "0494870b873559daacba7c77b51a167c0e99e42f0a72e8eca374da8d558df865"
+    }
+   ]
+  },
+  {
+   "id": "r094_20240123T0044_女",
+   "args": {
+    "year": 2024,
+    "month": 1,
+    "day": 23,
+    "hour": 0,
+    "minute": 44,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "癸卯乙丑丙戌戊子",
+    "lunar_date_str": "2023-12-13 00:58:32",
+    "true_solar_time": "2024-01-23 00:58:32",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "ceb8a7bcbd90421b1adafb98eff239587469400fbc6d9027ee515691461f392b",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2047,
+     "sha256": "bdc411bce8af5c2d03abd5ce4b49c28e8efaed53565c427833933b01c170ef6b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2138,
+     "sha256": "517c361a1ff654bcd8e8d0752485bedd5f890cdc6a7637042ee9a17359612aeb"
+    },
+    {
+     "kind": "monthly",
+     "year": 2070,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2070-04-11",
+      "end_date": "2070-05-09",
+      "doujun": "卯",
+      "ming_branch": "巳"
+     },
+     "sha256": "84876e98f7cb07a20f7b37e17eda3c539d3ebda44073dfc917b97c7d35ac0ad0"
+    }
+   ]
+  },
+  {
+   "id": "r095_19480420T0101_男",
+   "args": {
+    "year": 1948,
+    "month": 4,
+    "day": 20,
+    "hour": 1,
+    "minute": 1,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊子丙辰乙亥丁丑",
+    "lunar_date_str": "1948-03-12 01:01:00",
+    "true_solar_time": "1948-04-20 01:01:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "6e196a49373560066b8ce8c30c2f7ea6dc7f0c173e5a4f139a65e4f63449f9ad",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2066,
+     "sha256": "b644ecd5522f9617a4814e1ff1a197487fcc4ecfcc1b9a87f157e07fac5a168b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2017,
+     "sha256": "e186b9483253943928f70ab874830c3f3ee79edad6fe39e14bf22b56d8278e8d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2032,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2032-12-03",
+      "end_date": "2032-12-31",
+      "doujun": "亥",
+      "ming_branch": "酉"
+     },
+     "sha256": "b7402d5858603713f1f41ab8f90beb673e9c3ded58fcfc5467f2546f59ce75e7"
+    }
+   ]
+  },
+  {
+   "id": "r096_19610627T0411_女",
+   "args": {
+    "year": 1961,
+    "month": 6,
+    "day": 27,
+    "hour": 4,
+    "minute": 11,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛丑甲午辛卯庚寅",
+    "lunar_date_str": "1961-05-15 04:34:27",
+    "true_solar_time": "1961-06-27 04:34:27",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "162d0778c8c1f232bc8d0cd0b16405707c4abd5a07dd8971ee250bd5237631b4",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1994,
+     "sha256": "4b44530cb491467b302e7d2bd8790a96d6a8f9b4ea1d73e7701b699f17f34589"
+    },
+    {
+     "kind": "yearly",
+     "year": 1985,
+     "sha256": "85e516d0d210d9e3faaebe0adaab15392b9f60e6401d7ffbd596034e70d85e03"
+    },
+    {
+     "kind": "monthly",
+     "year": 2023,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2023-06-18",
+      "end_date": "2023-07-17",
+      "doujun": "丑",
+      "ming_branch": "巳"
+     },
+     "sha256": "2e6c5b1bebb6e69ebc7b45cb54e5c63b3abfe5d4aa553db386198f00941dad22"
+    }
+   ]
+  },
+  {
+   "id": "r097_20150821T0744_男",
+   "args": {
+    "year": 2015,
+    "month": 8,
+    "day": 21,
+    "hour": 7,
+    "minute": 44,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "乙未甲申己巳戊辰",
+    "lunar_date_str": "2015-07-08 07:44:00",
+    "true_solar_time": "2015-08-21 07:44:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "ba6575c42a41625ba98505a2cd5bdc278df20045cdaff94d4067ae55f5fe3aac",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2083,
+     "sha256": "3c281c12a142c8ff3e54cb8e0180b1633256d76279f47fc0dc35889c50d4ee18"
+    },
+    {
+     "kind": "yearly",
+     "year": 2032,
+     "sha256": "1f6d566fda17f6d4175fc5621e9c2f183580f3ee8b52a58676df2e480fbe2584"
+    },
+    {
+     "kind": "monthly",
+     "year": 2114,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "2114-03-07",
+      "end_date": "2114-04-05",
+      "doujun": "申",
+      "ming_branch": "酉"
+     },
+     "sha256": "574eeb28a6ecd7d378bb66b97b8fe223a5f507eaef59cff0e0e44eefbc4e35ff"
+    }
+   ]
+  },
+  {
+   "id": "r098_19451214T2327_女",
+   "args": {
+    "year": 1945,
+    "month": 12,
+    "day": 14,
+    "hour": 23,
+    "minute": 27,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙酉戊子戊午壬子",
+    "lunar_date_str": "1945-11-10 23:36:27",
+    "true_solar_time": "1945-12-14 23:36:27",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "ea422f874b4129746dac2b2e61c92bff79565fbc95043be2a0671f25b49d041a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1986,
+     "sha256": "f6f6ac1ff3ca4dd0f8f05c5aea722a047b34dc76596779dcf8f3acba5fed1a3a"
+    },
+    {
+     "kind": "yearly",
+     "year": 2027,
+     "sha256": "83d231fb23db279429daf9a963ecdc76c09947e94b036c9d414f4f39d1b3186f"
+    },
+    {
+     "kind": "monthly",
+     "year": 2044,
+     "month": 2,
+     "is_leap": false,
+     "meta": {
+      "month": 2,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "卯",
+      "label": "二月",
+      "start_date": "2044-02-29",
+      "end_date": "2044-03-28",
+      "doujun": "寅",
+      "ming_branch": "卯"
+     },
+     "sha256": "dd5caf4e42d1c921e4c8542f87488e8e02cd4d96396f4774074c17984aefc235"
+    }
+   ]
+  },
+  {
+   "id": "r099_19160325T1213_女",
+   "args": {
+    "year": 1916,
+    "month": 3,
+    "day": 25,
+    "hour": 12,
+    "minute": 13,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙辰辛卯辛酉甲午",
+    "lunar_date_str": "1916-02-22 12:13:00",
+    "true_solar_time": "1916-03-25 12:13:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "3901479f8b266aee5951e6955e05189b8c3dfaf592b61fa67fc8a7949300e5bd",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2008,
+     "sha256": "b9f5c48ba54a62b4aabde6d9100b83ef88cb0938766c93f523a424099fe87091"
+    },
+    {
+     "kind": "yearly",
+     "year": 2037,
+     "sha256": "a2319b6afdaac98c6630064c3027bfdf37d55daa373ea24e554e808c5e7ab3d5"
+    },
+    {
+     "kind": "monthly",
+     "year": 2033,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2033-05-28",
+      "end_date": "2033-06-26",
+      "doujun": "午",
+      "ming_branch": "戌"
+     },
+     "sha256": "37cdbed71344956aab416e6a7ead9b68d51dc13a2c53641fec72bda6f2568c68"
+    }
+   ]
+  },
+  {
+   "id": "r100_19660908T0539_男",
+   "args": {
+    "year": 1966,
+    "month": 9,
+    "day": 8,
+    "hour": 5,
+    "minute": 39,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙午丙申庚午戊寅",
+    "lunar_date_str": "1966-07-24 04:45:21",
+    "true_solar_time": "1966-09-08 04:45:21",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "7041da907807e130850979fad276b1081a42838b25d2739095002f62b670fc3e",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2053,
+     "sha256": "0e8eafb48c3030b846b836e4275d17168b6f8916b6933c72457322962890cd93"
+    },
+    {
+     "kind": "yearly",
+     "year": 2001,
+     "sha256": "9f5f38367556f82cf929f58cd483a1d43c3ec02270ad2ab2ee60cb1efb1e1f45"
+    },
+    {
+     "kind": "monthly",
+     "year": 2070,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2070-06-09",
+      "end_date": "2070-07-07",
+      "doujun": "戌",
+      "ming_branch": "寅"
+     },
+     "sha256": "43a730fd4bde5d58d58b15ca6a1cf1a8b6a62bd2da9d5cc30ff0812e11672757"
+    }
+   ]
+  },
+  {
+   "id": "r101_19701003T2303_男",
+   "args": {
+    "year": 1970,
+    "month": 10,
+    "day": 3,
+    "hour": 23,
+    "minute": 3,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚戌乙酉丁巳庚子",
+    "lunar_date_str": "1970-09-04 23:03:00",
+    "true_solar_time": "1970-10-03 23:03:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "fd97bf2dc7e52e5f603831fd37a90387e9f261e60b76dfd467d2a6939feac13c",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1997,
+     "sha256": "7e5106afe12dbb62430f4cafb19c2aaaf3a856819114d9d55ad5b6ea6e10631b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2060,
+     "sha256": "95e7320cb15e852c75f88bd23952661c38d61cc3dbaae7b7d6a1d93ca9238d38"
+    },
+    {
+     "kind": "monthly",
+     "year": 2013,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2013-08-07",
+      "end_date": "2013-09-04",
+      "doujun": "酉",
+      "ming_branch": "卯"
+     },
+     "sha256": "55be61a0f889051147e48d6f13a38f6a8a1c87ea76d9df489e2e4defc575a487"
+    }
+   ]
+  },
+  {
+   "id": "r102_19110621T2316_男",
+   "args": {
+    "year": 1911,
+    "month": 6,
+    "day": 21,
+    "hour": 23,
+    "minute": 16,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛亥甲午癸亥壬子",
+    "lunar_date_str": "1911-05-25 23:19:06",
+    "true_solar_time": "1911-06-21 23:19:06",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "0f4f7a2dc1eb71f2f38a4b4279591bacab645b8e36d7200eef46c12bd78f1f9c",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1963,
+     "sha256": "0f56afea334db49fc8697b2d99e2d328618385f3f9fe3401f176b6c80cba10bb"
+    },
+    {
+     "kind": "yearly",
+     "year": 1998,
+     "sha256": "2d64e32fa0e5a46db4f8086a451199289429931ec1085d2ecc95873a940933f4"
+    },
+    {
+     "kind": "monthly",
+     "year": 1967,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "1967-09-04",
+      "end_date": "1967-10-03",
+      "doujun": "卯",
+      "ming_branch": "戌"
+     },
+     "sha256": "e21fc23b7cd77884be3f714f5b8969fca53ae71cf0d98c25ac3abe75d06db6c5"
+    }
+   ]
+  },
+  {
+   "id": "r103_19210325T0051_女",
+   "args": {
+    "year": 1921,
+    "month": 3,
+    "day": 25,
+    "hour": 0,
+    "minute": 51,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛酉辛卯丁亥庚子",
+    "lunar_date_str": "1921-02-16 00:51:00",
+    "true_solar_time": "1921-03-25 00:51:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "388ce1883cbfc596cd698cbb5883260b75518714e533dc22c4e6b13bd0e86ad9",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2002,
+     "sha256": "12b031577f51b405904b1d709f87fbd0fc701a4676cffe886fc3378105de2d0e"
+    },
+    {
+     "kind": "yearly",
+     "year": 2021,
+     "sha256": "7b8e939d77ee4a583fbe6b598339423a1171495a6d1fd7121f02e3218ab08a0b"
+    },
+    {
+     "kind": "monthly",
+     "year": 1968,
+     "month": 4,
+     "is_leap": false,
+     "meta": {
+      "month": 4,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "巳",
+      "label": "四月",
+      "start_date": "1968-04-27",
+      "end_date": "1968-05-26",
+      "doujun": "未",
+      "ming_branch": "戌"
+     },
+     "sha256": "5bcaa8ad6fa6ee208b6d8c7dc64b888873138dc6b90ada25c791eb22849d244d"
+    }
+   ]
+  },
+  {
+   "id": "r104_19820614T0013_男",
+   "args": {
+    "year": 1982,
+    "month": 6,
+    "day": 14,
+    "hour": 0,
+    "minute": 13,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "壬戌丙午己巳甲子",
+    "lunar_date_str": "1982-04-23 23:58:46",
+    "true_solar_time": "1982-06-14 23:58:46",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "23f4e0c49d4eac4d9cb721baf0dc65b7fb95268c17f5064d603029bca3c1bd8b",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2060,
+     "sha256": "f649c4186c4045bb56d1eb38902a21bfe803c7c4a52744237adda14dae7a2e2e"
+    },
+    {
+     "kind": "yearly",
+     "year": 2089,
+     "sha256": "a7c69afd8d131a11d2aed31a952a2b194a6d7c97b17414636ed1dfbcc07cf5fd"
+    },
+    {
+     "kind": "monthly",
+     "year": 2061,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2061-09-14",
+      "end_date": "2061-10-12",
+      "doujun": "寅",
+      "ming_branch": "酉"
+     },
+     "sha256": "908cbc98aa65a99bc10cfaf083fdab54333fec3cc0f42c9b13c05970e4592a6b"
+    }
+   ]
+  },
+  {
+   "id": "r105_19560620T1100_男",
+   "args": {
+    "year": 1956,
+    "month": 6,
+    "day": 20,
+    "hour": 11,
+    "minute": 0,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙申甲午戊午戊午",
+    "lunar_date_str": "1956-05-12 11:00:00",
+    "true_solar_time": "1956-06-20 11:00:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "cd83bf7ba72c17a41ed031b7d0cc483b451afd7de13b1b47355ff85c1a0bc06c",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2012,
+     "sha256": "291dce63cd7dc83fa708cffbb1fffc5eb3acd5aa18b3a0a88d4e1937f11b38a4"
+    },
+    {
+     "kind": "yearly",
+     "year": 2004,
+     "sha256": "6e2b2fcf2f97bbc75620e40554ad0350a182354cd6069715260d72bad15f5d82"
+    },
+    {
+     "kind": "monthly",
+     "year": 2000,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2000-07-02",
+      "end_date": "2000-07-30",
+      "doujun": "午",
+      "ming_branch": "亥"
+     },
+     "sha256": "94593c609df01a497f00743262f309fcb89654bcddc255c0d12b70f6f335af46"
+    }
+   ]
+  },
+  {
+   "id": "r106_19910416T0025_女",
+   "args": {
+    "year": 1991,
+    "month": 4,
+    "day": 16,
+    "hour": 0,
+    "minute": 25,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛未壬辰丁巳庚子",
+    "lunar_date_str": "1991-03-02 23:28:53",
+    "true_solar_time": "1991-04-16 23:28:53",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "81c13f06199d87a03b742587b05e81376698bea9117b8a971b2153e633f4b512",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2023,
+     "sha256": "b8c38591a356acd72dd5376747d92d27d33f7e7600247a41d1996061df5c5400"
+    },
+    {
+     "kind": "yearly",
+     "year": 2050,
+     "sha256": "e68e650d10b2d9185b448fa9007288dc3dc3cefb4b08911f9f8b6872419b7563"
+    },
+    {
+     "kind": "monthly",
+     "year": 2094,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2094-12-08",
+      "end_date": "2095-01-05",
+      "doujun": "子",
+      "ming_branch": "戌"
+     },
+     "sha256": "7dc5cad89bba89b5b7240c1afa9bd04b300897432481c60acd54e8e45a58cf37"
+    }
+   ]
+  },
+  {
+   "id": "r107_19050415T0014_女",
+   "args": {
+    "year": 1905,
+    "month": 4,
+    "day": 15,
+    "hour": 0,
+    "minute": 14,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙巳庚辰甲申甲子",
+    "lunar_date_str": "1905-03-11 00:14:00",
+    "true_solar_time": "1905-04-15 00:14:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "4adaa349635b6459ac381eef793573f52a5e58f027be0080054a5e55f3552e37",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1982,
+     "sha256": "6e994920714f3016172fad5583ed478bcdd9e74561fa172526a42fe726366845"
+    },
+    {
+     "kind": "yearly",
+     "year": 1949,
+     "sha256": "3a292755d4de37560a371cb3867a347fef1b67ec11e22caf4b202c9f2d888946"
+    },
+    {
+     "kind": "monthly",
+     "year": 1970,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1970-04-06",
+      "end_date": "1970-05-04",
+      "doujun": "申",
+      "ming_branch": "戌"
+     },
+     "sha256": "eca49aace24626fb0a34e149358ae86d70daabf198fa156bd1454bab6f3c268b"
+    }
+   ]
+  },
+  {
+   "id": "r108_20170902T1137_男",
+   "args": {
+    "year": 2017,
+    "month": 9,
+    "day": 2,
+    "hour": 11,
+    "minute": 37,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁酉戊申壬辰丙午",
+    "lunar_date_str": "2017-07-12 12:03:25",
+    "true_solar_time": "2017-09-02 12:03:25",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "db3975aa01780450a881a526dda7a44cc9bdb62d633352bb311a79bc8b0e255f",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2087,
+     "sha256": "73b3de4d257f7b288882baa0f92f29c23c321fb6306250f5d153335635181d3b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2076,
+     "sha256": "303320da3ded5cc979f256577801d540ce9405d8624813ff3f47cd97bb88c099"
+    },
+    {
+     "kind": "monthly",
+     "year": 2130,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2130-06-06",
+      "end_date": "2130-07-04",
+      "doujun": "寅",
+      "ming_branch": "午"
+     },
+     "sha256": "d4a1ea0170ca9bcb7bd5d35388cedd0b65660c8f4cca82c5f9e13d924ecd4eaf"
+    }
+   ]
+  },
+  {
+   "id": "r109_20060216T0047_女",
+   "args": {
+    "year": 2006,
+    "month": 2,
+    "day": 16,
+    "hour": 0,
+    "minute": 47,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙戌庚寅丙子戊子",
+    "lunar_date_str": "2006-01-19 00:47:00",
+    "true_solar_time": "2006-02-16 00:47:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "13ed68cef66b0a02d8af40076475f98af8209bccd5299cf035e036246384bd2a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2051,
+     "sha256": "efdc03f369ba461add41e529a4a6fd74704fdbf7c9bdb27216b4810d6da9f112"
+    },
+    {
+     "kind": "yearly",
+     "year": 2042,
+     "sha256": "6e66d0f0222956294fb329433443520e80cafcc3f6d7653565469bc950162c4d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2109,
+     "month": 4,
+     "is_leap": false,
+     "meta": {
+      "month": 4,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "巳",
+      "label": "四月",
+      "start_date": "2109-04-30",
+      "end_date": "2109-05-29",
+      "doujun": "巳",
+      "ming_branch": "申"
+     },
+     "sha256": "c0ae2dd29a8d80116c973de0e93ab2124995bf50d244a6254d876cada2b0155c"
+    }
+   ]
+  },
+  {
+   "id": "r110_20100702T0012_女",
+   "args": {
+    "year": 2010,
+    "month": 7,
+    "day": 2,
+    "hour": 0,
+    "minute": 12,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "庚寅壬午癸丑癸亥",
+    "lunar_date_str": "2010-05-21 21:58:40",
+    "true_solar_time": "2010-07-02 21:58:40",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "e7468f056a5df37a2717a0ae6b31b09f093157eb363a24ad682a82122f80c468",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2088,
+     "sha256": "746ca767a966a4eec09433e3e15cd921851c9696ee639a68bbc984f4855b2b27"
+    },
+    {
+     "kind": "yearly",
+     "year": 2124,
+     "sha256": "ad686ab790617028b8ccd46302e826b2a1ee4cc8aba3b9ffd80298e89ec9c293"
+    },
+    {
+     "kind": "monthly",
+     "year": 2054,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2054-07-05",
+      "end_date": "2054-08-03",
+      "doujun": "巳",
+      "ming_branch": "戌"
+     },
+     "sha256": "ff20b85aa8e6fc4263dc09fe10c134ef079f2f2c2bae8cb2fb2e06d4df847a7f"
+    }
+   ]
+  },
+  {
+   "id": "r111_19210821T2225_女",
+   "args": {
+    "year": 1921,
+    "month": 8,
+    "day": 21,
+    "hour": 22,
+    "minute": 25,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛酉丙申丙辰己亥",
+    "lunar_date_str": "1921-07-18 22:25:00",
+    "true_solar_time": "1921-08-21 22:25:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "1cba12dad74f630eee22f24d42ea9b4b94d18e758a6f64c94ca26cab60d1641a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1934,
+     "sha256": "762e64beccc72d014b079db00fb51dc089c5c22b5d777440303e2eee1d219d84"
+    },
+    {
+     "kind": "yearly",
+     "year": 1983,
+     "sha256": "f591e66a2dd6ac0729143ba931adfe4d0945ae716e99afa227afe18b8e61d1f6"
+    },
+    {
+     "kind": "monthly",
+     "year": 1964,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "1964-10-06",
+      "end_date": "1964-11-03",
+      "doujun": "酉",
+      "ming_branch": "巳"
+     },
+     "sha256": "0fce0a3d2a17f81c6b3c892669be571ee86f975da843843c17bd610792808151"
+    }
+   ]
+  },
+  {
+   "id": "r112_19910925T0040_男",
+   "args": {
+    "year": 1991,
+    "month": 9,
+    "day": 25,
+    "hour": 0,
+    "minute": 40,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛未丁酉戊戌壬子",
+    "lunar_date_str": "1991-08-18 00:33:41",
+    "true_solar_time": "1991-09-25 00:33:41",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "bb451898e3e95ba3d80d4597a830b24b1894aae80934ab911cd603c9da155e00",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2099,
+     "sha256": "1120f146a353120231cdd7879ff8080444a5c6c6375a49aae7201b6403318873"
+    },
+    {
+     "kind": "yearly",
+     "year": 2006,
+     "sha256": "278fe9ca071298e0abba26b4444bc5c93cf41f2d6a95a1a2bf86780dedfdb761"
+    },
+    {
+     "kind": "monthly",
+     "year": 2036,
+     "month": 1,
+     "is_leap": false,
+     "meta": {
+      "month": 1,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "寅",
+      "label": "正月",
+      "start_date": "2036-01-28",
+      "end_date": "2036-02-26",
+      "doujun": "酉",
+      "ming_branch": "酉"
+     },
+     "sha256": "5a1870e7f11cff1d78442a3af25a74ded5305ac1306fb54a8b1f57d984dd6054"
+    }
+   ]
+  },
+  {
+   "id": "r113_20000720T0015_男",
+   "args": {
+    "year": 2000,
+    "month": 7,
+    "day": 20,
+    "hour": 0,
+    "minute": 15,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚辰癸未己卯甲子",
+    "lunar_date_str": "2000-06-19 00:15:00",
+    "true_solar_time": "2000-07-20 00:15:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "931d2c2003f0d85dd4910d6fa63d164a55c1db2a3360a2e85d09e0efdf6d6a12",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2063,
+     "sha256": "ea132c8b04ab473bb317d9adaade816682681d3cbb2edbfcabdd9cfa5037fd78"
+    },
+    {
+     "kind": "yearly",
+     "year": 2018,
+     "sha256": "72e1eb7d18c99303e9ddc9e84a8d720c9cb504f8bf67adbf4effb8181c6a38a4"
+    },
+    {
+     "kind": "monthly",
+     "year": 2076,
+     "month": 4,
+     "is_leap": false,
+     "meta": {
+      "month": 4,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "巳",
+      "label": "四月",
+      "start_date": "2076-05-03",
+      "end_date": "2076-06-01",
+      "doujun": "卯",
+      "ming_branch": "午"
+     },
+     "sha256": "ed4b64255aef09fdf675594a725543f8f229e7e254a970f1bfcc2079cfbdb5e0"
+    }
+   ]
+  },
+  {
+   "id": "r114_19501222T0029_男",
+   "args": {
+    "year": 1950,
+    "month": 12,
+    "day": 22,
+    "hour": 0,
+    "minute": 29,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "庚寅戊子辛卯戊子",
+    "lunar_date_str": "1950-11-14 00:16:34",
+    "true_solar_time": "1950-12-22 00:16:34",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "bf41f7633d2d28246cc478079d57525e33c79e66e04a19c265826da2917183c9",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1993,
+     "sha256": "55c75709aa7c7de6a8a7ad2e4fc5bbe13fc1f26cf912d9e4984d2c5ee05bd1a5"
+    },
+    {
+     "kind": "yearly",
+     "year": 2013,
+     "sha256": "5fc38dd393a1801b21ff0c9f84df090ca4501aabc130586d992596a6dfc10a6e"
+    },
+    {
+     "kind": "monthly",
+     "year": 2038,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2038-06-03",
+      "end_date": "2038-07-01",
+      "doujun": "申",
+      "ming_branch": "子"
+     },
+     "sha256": "b68620f3ba9b67418c85270586d8a372a909e2156c4ade574a51330d8a91850d"
+    }
+   ]
+  },
+  {
+   "id": "r115_19841213T2352_男",
+   "args": {
+    "year": 1984,
+    "month": 12,
+    "day": 13,
+    "hour": 23,
+    "minute": 52,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "甲子丙子壬午庚子",
+    "lunar_date_str": "1984-10-21 23:52:00",
+    "true_solar_time": "1984-12-13 23:52:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "afd1542e0aad58687998e934bb24fba4515e31639d75214e0bbd647ad55ed8aa",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2096,
+     "sha256": "583f16d48f79701fce17c707ce05d22a9fd3fd38b84aeddbf3d81b3ed35d0286"
+    },
+    {
+     "kind": "yearly",
+     "year": 2057,
+     "sha256": "0cad5d53e002f8403a7a5ed3469b12ce3ec63a1ad33cde480d647b225b32b32e"
+    },
+    {
+     "kind": "monthly",
+     "year": 2083,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2083-04-17",
+      "end_date": "2083-05-16",
+      "doujun": "午",
+      "ming_branch": "申"
+     },
+     "sha256": "25324f4a5261af5fe7098355d252775bc6b5543c5b71e6c9b7a1079fccd481fb"
+    }
+   ]
+  },
+  {
+   "id": "r116_20270424T0346_男",
+   "args": {
+    "year": 2027,
+    "month": 4,
+    "day": 24,
+    "hour": 3,
+    "minute": 46,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁未甲辰癸酉甲寅",
+    "lunar_date_str": "2027-03-18 03:20:49",
+    "true_solar_time": "2027-04-24 03:20:49",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "7bf247e8b8bea2b6605e0517be6aa55442f131039d09a3b3ecd1f254a8464944",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2085,
+     "sha256": "9aef9231da95137ed19f6c70c21adb274d43a008e0986320ca34bd11ec65575b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2092,
+     "sha256": "7d44afcc5c65432a1fdc7aebd90fde9ac4411922693384fe9fcd6c204376a1db"
+    },
+    {
+     "kind": "monthly",
+     "year": 2101,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2101-09-23",
+      "end_date": "2101-10-22",
+      "doujun": "酉",
+      "ming_branch": "辰"
+     },
+     "sha256": "ed0e670ab3e6f65c319083be56542514bbda1cea3214fa5063856a84e407da6d"
+    }
+   ]
+  },
+  {
+   "id": "r117_20290119T0054_男",
+   "args": {
+    "year": 2029,
+    "month": 1,
+    "day": 19,
+    "hour": 0,
+    "minute": 54,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊申乙丑己酉甲子",
+    "lunar_date_str": "2028-12-05 00:54:00",
+    "true_solar_time": "2029-01-19 00:54:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "ad6e0a3d315c54625d375e6b1e01dce250348d4166b373aabc67df88aa81aed0",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2031,
+     "sha256": "29e912c50d603f5b32df7796b7ff14d2bc0fe7bd9cb0b2b95df75d4f8de7983d"
+    },
+    {
+     "kind": "yearly",
+     "year": 2065,
+     "sha256": "538bd581ab7130bdf81ce53de1577c983ec90cf709b872cecc680f80fe7212d5"
+    },
+    {
+     "kind": "monthly",
+     "year": 2068,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2068-08-28",
+      "end_date": "2068-09-25",
+      "doujun": "丑",
+      "ming_branch": "申"
+     },
+     "sha256": "1ee51feb151b3643159fef3740d4d42972ff965ddf8b304b146b374b00094011"
+    }
+   ]
+  },
+  {
+   "id": "r118_19771204T0011_女",
+   "args": {
+    "year": 1977,
+    "month": 12,
+    "day": 4,
+    "hour": 0,
+    "minute": 11,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丁巳辛亥乙未丁亥",
+    "lunar_date_str": "1977-10-24 22:11:44",
+    "true_solar_time": "1977-12-04 22:11:44",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "48ba4e4e5823a58aa906444cc00ef57370050e5d6afe48500dc259e5d76f5b3b",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2026,
+     "sha256": "ecd161b1826d091fbfc110f24a82c0260805ce91021fbee8e7f5e7dc54347555"
+    },
+    {
+     "kind": "yearly",
+     "year": 2053,
+     "sha256": "288f71bf6e8ec1f84e0cc52f5e5eebf1135ff28fb55206c9e824a3b14b6286cf"
+    },
+    {
+     "kind": "monthly",
+     "year": 2094,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2094-06-13",
+      "end_date": "2094-07-11",
+      "doujun": "辰",
+      "ming_branch": "申"
+     },
+     "sha256": "236dbf7d712e2a1dd0bdf458b94bcdd7f33cbd108b8b17c5c0e33cfd8f43de92"
+    }
+   ]
+  },
+  {
+   "id": "r119_19030816T2334_男",
+   "args": {
+    "year": 1903,
+    "month": 8,
+    "day": 16,
+    "hour": 23,
+    "minute": 34,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸卯庚申丁丑庚子",
+    "lunar_date_str": "1903-06-24 23:34:00",
+    "true_solar_time": "1903-08-16 23:34:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "81c77639e40d25daf81e10a1cae757cbb0ccf3deb47cb45718905b4c0f2ed744",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1930,
+     "sha256": "95d4588d3898a48dcdf8a54e7877bc184a79130ccaeea8addaf21d1294bc9e20"
+    },
+    {
+     "kind": "yearly",
+     "year": 1984,
+     "sha256": "3eb9381c867f291ff3a9dd4ccae5b68dcda0fb2eb17084fe0c57fcb1fb6dc444"
+    },
+    {
+     "kind": "monthly",
+     "year": 1949,
+     "month": 12,
+     "is_leap": false,
+     "meta": {
+      "month": 12,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "丑",
+      "label": "腊月",
+      "start_date": "1950-01-18",
+      "end_date": "1950-02-16",
+      "doujun": "申",
+      "ming_branch": "未"
+     },
+     "sha256": "93731d04147ce911d0de8f7841d76882f5b1374542d1c2f8d9d8404739f9bcfb"
+    }
+   ]
+  },
+  {
+   "id": "r120_19810812T0128_男",
+   "args": {
+    "year": 1981,
+    "month": 8,
+    "day": 12,
+    "hour": 1,
+    "minute": 28,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛酉丙申壬戌辛丑",
+    "lunar_date_str": "1981-07-13 01:49:06",
+    "true_solar_time": "1981-08-12 01:49:06",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "819875787a3c4039a789bed0d530b6f9c357c3f6ca40cc2a15a512b58e380a5f",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2011,
+     "sha256": "4c37d916fb90b815a483fb9622b945d0022642ac49e4c6dbd04391ecafcb9410"
+    },
+    {
+     "kind": "yearly",
+     "year": 2039,
+     "sha256": "f1a5c701e2888793b1f3830d40eb41b97a188c976168cd7e5b41ad8696a5bf66"
+    },
+    {
+     "kind": "monthly",
+     "year": 1987,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "1987-12-21",
+      "end_date": "1988-01-18",
+      "doujun": "戌",
+      "ming_branch": "申"
+     },
+     "sha256": "491f2d033f1c7141b086f45eb9c04df8211a7f0ca2b61abcb76a8ce6da734199"
+    }
+   ]
+  },
+  {
+   "id": "r121_19360205T0733_女",
+   "args": {
+    "year": 1936,
+    "month": 2,
+    "day": 5,
+    "hour": 7,
+    "minute": 33,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙子庚寅丁巳甲辰",
+    "lunar_date_str": "1936-01-13 07:33:00",
+    "true_solar_time": "1936-02-05 07:33:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "0ca3bce280940b70badd2549109664e437afa412046ef93c73cab340c90ba5f6",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1939,
+     "sha256": "3d55e1c5ce801682e4bfa8932b4a5c74dcf266951811aed56c9533aef62837ba"
+    },
+    {
+     "kind": "yearly",
+     "year": 2042,
+     "sha256": "71a05be339dd7d65c721f1a2fcbff5096b234fb335f5eb47628ad72f9128ea31"
+    },
+    {
+     "kind": "monthly",
+     "year": 1955,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "丁",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "1955-11-14",
+      "end_date": "1955-12-13",
+      "doujun": "亥",
+      "ming_branch": "申"
+     },
+     "sha256": "7643ddec9c6a82377099bdfcca52ac1e6ab66f0922789360a1cb586c98f876a9"
+    }
+   ]
+  },
+  {
+   "id": "r122_19020106T2028_女",
+   "args": {
+    "year": 1902,
+    "month": 1,
+    "day": 6,
+    "hour": 20,
+    "minute": 28,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛丑辛丑己丑甲戌",
+    "lunar_date_str": "1901-11-27 19:56:09",
+    "true_solar_time": "1902-01-06 19:56:09",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "fe225b466e0711a0c45de4fe6e08855096c1c979f5633daed7d64b2cc5adfbea",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1964,
+     "sha256": "93db2bc89b9f692dd5a3a416abb0b45d09c1bf7ecff48540c99fd7e31e30018b"
+    },
+    {
+     "kind": "yearly",
+     "year": 1960,
+     "sha256": "7c8d4654e60a9f76b537529cf9b3ada433f1a77d3885ca55ef6ec5563d61445b"
+    },
+    {
+     "kind": "monthly",
+     "year": 1940,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "1940-08-04",
+      "end_date": "1940-09-01",
+      "doujun": "辰",
+      "ming_branch": "戌"
+     },
+     "sha256": "7225a62b569e5a1fc7d30909b08d096bf4f53e0497d0b8b8eb93931e53ed95bf"
+    }
+   ]
+  },
+  {
+   "id": "r123_20050804T2326_男",
+   "args": {
+    "year": 2005,
+    "month": 8,
+    "day": 4,
+    "hour": 23,
+    "minute": 26,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "乙酉癸未辛酉戊子",
+    "lunar_date_str": "2005-06-30 23:26:00",
+    "true_solar_time": "2005-08-04 23:26:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "bb487537472b586dce5629674f5ab2ae743cad9f6a7650a372d5f0de80ecb35d",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2099,
+     "sha256": "4d96ea2c333606c417180625dcf35162272be87c0e499587d863cf5d5d3bc4b8"
+    },
+    {
+     "kind": "yearly",
+     "year": 2118,
+     "sha256": "8cc3c0380cfd8ef3cb3d94619f594a90de6528fa033a36ed212689f7b9dcba4d"
+    },
+    {
+     "kind": "monthly",
+     "year": 2041,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2041-10-25",
+      "end_date": "2041-11-23",
+      "doujun": "辰",
+      "ming_branch": "丑"
+     },
+     "sha256": "396d7a9948d45ddbc8f0abe949fc355149fbd1baaa4ba0413398f60c33685f74"
+    }
+   ]
+  },
+  {
+   "id": "r124_20170819T2307_女",
+   "args": {
+    "year": 2017,
+    "month": 8,
+    "day": 19,
+    "hour": 23,
+    "minute": 7,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丁酉戊申戊寅癸亥",
+    "lunar_date_str": "2017-06-28 22:36:25",
+    "true_solar_time": "2017-08-19 22:36:25",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "9b9a130fecbb1ec76295ee60c86b486ebc9962fa9b69b54450e1bccb2e502015",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2085,
+     "sha256": "ed4f32d6bcf9680618d15f8d7013b081579c12ac379d0c3e16c0344ec681ae5a"
+    },
+    {
+     "kind": "yearly",
+     "year": 2065,
+     "sha256": "4a6d888c8360c561babe566e228b6b420fa2aeb91834cab9d6b3a7d3e2536e7a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2033,
+     "month": 12,
+     "is_leap": false,
+     "meta": {
+      "month": 12,
+      "is_leap": false,
+      "stem": "乙",
+      "branch": "丑",
+      "label": "腊月",
+      "start_date": "2034-01-20",
+      "end_date": "2034-02-18",
+      "doujun": "未",
+      "ming_branch": "午"
+     },
+     "sha256": "f8df3c4e7d8c81bec8c5d574199d5086564f0b7faa261f931f0d465a4149ccef"
+    }
+   ]
+  },
+  {
+   "id": "r125_20200304T0343_女",
+   "args": {
+    "year": 2020,
+    "month": 3,
+    "day": 4,
+    "hour": 3,
+    "minute": 43,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "庚子戊寅丙午庚寅",
+    "lunar_date_str": "2020-02-11 03:43:00",
+    "true_solar_time": "2020-03-04 03:43:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "c63777fb976ac9a54416e438d1b298504ca3c22249b17d3882b7e6ac4d71de98",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2099,
+     "sha256": "e3a4f253b9434a1ff9e83899c7cd90e709fd01baa7982c451d5bfffac146bccd"
+    },
+    {
+     "kind": "yearly",
+     "year": 2073,
+     "sha256": "b339ebffa31ec7db00030099735db2767945f6febbade4f0b5723658bde108cf"
+    },
+    {
+     "kind": "monthly",
+     "year": 2032,
+     "month": 10,
+     "is_leap": false,
+     "meta": {
+      "month": 10,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "亥",
+      "label": "十月",
+      "start_date": "2032-11-03",
+      "end_date": "2032-12-02",
+      "doujun": "丑",
+      "ming_branch": "戌"
+     },
+     "sha256": "dacf35da47f1e38d1ba6b1d405734380236e413a022c0413046b3061fa6207c0"
+    }
+   ]
+  },
+  {
+   "id": "r126_19310608T0719_女",
+   "args": {
+    "year": 1931,
+    "month": 6,
+    "day": 8,
+    "hour": 7,
+    "minute": 19,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛未甲午甲午戊辰",
+    "lunar_date_str": "1931-04-23 07:06:17",
+    "true_solar_time": "1931-06-08 07:06:17",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "af1c5ca0eded5c5700bd780fc60efbfc8a7147ea0177964d3e2a01d68654e715",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1936,
+     "sha256": "fc1f17ebe32b350623e3dd4b52fb8a8b9f50548aca6b8108d41442989fda0405"
+    },
+    {
+     "kind": "yearly",
+     "year": 2037,
+     "sha256": "42d501f6cbcd3c0b0591193ab2f2c3136fc29d61cd3cdac1226d607659d2ff41"
+    },
+    {
+     "kind": "monthly",
+     "year": 2025,
+     "month": 6,
+     "is_leap": true,
+     "meta": {
+      "month": 6,
+      "is_leap": true,
+      "stem": "癸",
+      "branch": "未",
+      "label": "闰六月",
+      "start_date": "2025-07-25",
+      "end_date": "2025-08-22",
+      "doujun": "午",
+      "ming_branch": "亥"
+     },
+     "sha256": "0a5efd908908f88849f8173fdaf0a472ea6482ca0f13a37ab72686f8e51651a6"
+    }
+   ]
+  },
+  {
+   "id": "r127_19891022T0040_女",
+   "args": {
+    "year": 1989,
+    "month": 10,
+    "day": 22,
+    "hour": 0,
+    "minute": 40,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "己巳甲戌乙卯丙子",
+    "lunar_date_str": "1989-09-23 00:40:00",
+    "true_solar_time": "1989-10-22 00:40:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "2e771e8199e1361736580a3a625812bd950466dd405b3d67382fc2d293be8d56",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2017,
+     "sha256": "2ec864ca54d4db84145320c7b32b0dde484b4db99321da4014a59841da6087f1"
+    },
+    {
+     "kind": "yearly",
+     "year": 2031,
+     "sha256": "c42fa3d456bc5fd899d4e9f1b83e1a95efeeb7f3bbbed66a335e25f3a7afa05b"
+    },
+    {
+     "kind": "monthly",
+     "year": 2051,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "2051-06-09",
+      "end_date": "2051-07-07",
+      "doujun": "亥",
+      "ming_branch": "卯"
+     },
+     "sha256": "895d2e27d945ae38b49c3cacaa4b00a8e4828a0e671866a732aa959f0a09a7a6"
+    }
+   ]
+  },
+  {
+   "id": "r128_19310409T0036_女",
+   "args": {
+    "year": 1931,
+    "month": 4,
+    "day": 9,
+    "hour": 0,
+    "minute": 36,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛未壬辰甲午甲子",
+    "lunar_date_str": "1931-02-22 00:07:26",
+    "true_solar_time": "1931-04-09 00:07:26",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "db1b1c9ce25ebc156851e2ad08af1b1bebb84d6c6b13393bdcf276f906cdff8a",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1988,
+     "sha256": "fce50f74edeb6df8044374c04ce737e2d232e2c07bb72c07e8e933abfec85118"
+    },
+    {
+     "kind": "yearly",
+     "year": 1939,
+     "sha256": "f311218ce44a5dc2c60e8ce4a67d4aa39af2495e6b5d4484ab78706ee3337496"
+    },
+    {
+     "kind": "monthly",
+     "year": 2001,
+     "month": 4,
+     "is_leap": true,
+     "meta": {
+      "month": 4,
+      "is_leap": true,
+      "stem": "癸",
+      "branch": "巳",
+      "label": "闰四月",
+      "start_date": "2001-05-23",
+      "end_date": "2001-06-20",
+      "doujun": "辰",
+      "ming_branch": "未"
+     },
+     "sha256": "506f9793f3f4a767eb77da491e95a000f4276d5c7eba323256156abfe2981086"
+    }
+   ]
+  },
+  {
+   "id": "r129_19840419T2302_男",
+   "args": {
+    "year": 1984,
+    "month": 4,
+    "day": 19,
+    "hour": 23,
+    "minute": 2,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "甲子戊辰甲申甲子",
+    "lunar_date_str": "1984-03-19 23:02:00",
+    "true_solar_time": "1984-04-19 23:02:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "7795d915b6ac3ef834755002e75b70a00febfbc8c0a89ddf78b0e29356afd266",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2051,
+     "sha256": "66aed5a4e713010ab196d64f1f709848dc85a2cdb5f3e626538ce3ebe346e60b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2009,
+     "sha256": "a9f3caac633bde8397c30268504266a4eaa4374cdec078caf450b23acfda4114"
+    },
+    {
+     "kind": "monthly",
+     "year": 2003,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "2003-07-29",
+      "end_date": "2003-08-27",
+      "doujun": "巳",
+      "ming_branch": "亥"
+     },
+     "sha256": "5c22ee0404fa6c09d21132b6ed00e4224f743c161aa4f59f9a1beff01942a56c"
+    }
+   ]
+  },
+  {
+   "id": "r130_19260224T1616_女",
+   "args": {
+    "year": 1926,
+    "month": 2,
+    "day": 24,
+    "hour": 16,
+    "minute": 16,
+    "second": 0,
+    "coords": [
+     45.8038,
+     126.535,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙寅庚寅甲申壬申",
+    "lunar_date_str": "1926-01-12 16:28:56",
+    "true_solar_time": "1926-02-24 16:28:56",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "bd07967eca2c6e3e9d69b4956520cfcbf1cdb851ce2044c2a687355e98e65faa",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2041,
+     "sha256": "35ad3b137dc650a1eddb74ff8f2acb466130697aefb089ee12ac597e8bcf9224"
+    },
+    {
+     "kind": "yearly",
+     "year": 2024,
+     "sha256": "2fdd0bb7b00bbb0e381e452c097df2c2f68fe5d991723ad3de7d2c008a9c5f0f"
+    },
+    {
+     "kind": "monthly",
+     "year": 1988,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "1988-10-11",
+      "end_date": "1988-11-08",
+      "doujun": "子",
+      "ming_branch": "申"
+     },
+     "sha256": "4088ec44539ae47d1e92fd49cddbd7a3a32d57352b5cf1112a8457c85bf99a3c"
+    }
+   ]
+  },
+  {
+   "id": "r131_19200408T2322_女",
+   "args": {
+    "year": 1920,
+    "month": 4,
+    "day": 8,
+    "hour": 23,
+    "minute": 22,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "庚申庚辰丁酉庚子",
+    "lunar_date_str": "1920-02-20 23:22:00",
+    "true_solar_time": "1920-04-08 23:22:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "aab7266c2523bea006b62b87d9b02d94f406a69ba9cdf0c12f6639c44e6919c2",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1982,
+     "sha256": "31cd2f6370cb5d403067158d9a9b0a98ef6d3c8d2af9ec98eb3a2d1120f8a209"
+    },
+    {
+     "kind": "yearly",
+     "year": 2030,
+     "sha256": "0f6b03b87290a5079d6c5ce945d34d5a113b414590c05bc2d91eb031a5dcd107"
+    },
+    {
+     "kind": "monthly",
+     "year": 1931,
+     "month": 4,
+     "is_leap": false,
+     "meta": {
+      "month": 4,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "巳",
+      "label": "四月",
+      "start_date": "1931-05-17",
+      "end_date": "1931-06-15",
+      "doujun": "午",
+      "ming_branch": "酉"
+     },
+     "sha256": "3e83c85cb29caa2d411425ed8af5115ed2de4f9af12d93a240bdc96ab8f153d1"
+    }
+   ]
+  },
+  {
+   "id": "r132_19231003T2326_男",
+   "args": {
+    "year": 1923,
+    "month": 10,
+    "day": 3,
+    "hour": 23,
+    "minute": 26,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸亥辛酉庚戌丙子",
+    "lunar_date_str": "1923-08-23 23:22:32",
+    "true_solar_time": "1923-10-03 23:22:32",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "a39efc4aa0472c21ef364d3880823d4919cf3caf552de9f689ebb6a9f1926726",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1954,
+     "sha256": "2868b1fb56f663510ca31322d9ae69abae458322e3fa042189893b4c73b31b9a"
+    },
+    {
+     "kind": "yearly",
+     "year": 1977,
+     "sha256": "ddf18d31616ea5640d1316e5a4fdf7a1340aafc47312979443131d683ecb85b9"
+    },
+    {
+     "kind": "monthly",
+     "year": 1966,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "1966-12-12",
+      "end_date": "1967-01-10",
+      "doujun": "亥",
+      "ming_branch": "酉"
+     },
+     "sha256": "dc129ba143370ebead64f1d868c59a6c80dcb1d56e3fe2ac91dc4c7e38ec47d4"
+    }
+   ]
+  },
+  {
+   "id": "r133_19980822T0047_男",
+   "args": {
+    "year": 1998,
+    "month": 8,
+    "day": 22,
+    "hour": 0,
+    "minute": 47,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊寅庚申辛丑戊子",
+    "lunar_date_str": "1998-07-01 00:47:00",
+    "true_solar_time": "1998-08-22 00:47:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "d43578e6c41b0ad0e60218d9b354cfad9bc72aabdd06845eec9951284aed0715",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2091,
+     "sha256": "c3f4364be6e514b0736d5e77317df3d45153a5cd0593d8b0bf8fc04040078a8b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2100,
+     "sha256": "47876f84a840bab874fdcb6b5e8b807bd2ba2d3dcaaada57bd9a1d6ca0813ffc"
+    },
+    {
+     "kind": "monthly",
+     "year": 2100,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2100-12-01",
+      "end_date": "2100-12-30",
+      "doujun": "寅",
+      "ming_branch": "子"
+     },
+     "sha256": "b7bb222821e1bbfc2efd5b5f78acf2fcf18b33624130d9f4cf6c9a92c7c709fa"
+    }
+   ]
+  },
+  {
+   "id": "r134_19570702T2357_男",
+   "args": {
+    "year": 1957,
+    "month": 7,
+    "day": 2,
+    "hour": 23,
+    "minute": 57,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁酉丙午丙子戊子",
+    "lunar_date_str": "1957-06-05 23:26:25",
+    "true_solar_time": "1957-07-02 23:26:25",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "5b4bc77a83386310401c3d27f8cc8a0feba5c5e67d5fe2f2c6d3a9ec7a837786",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2077,
+     "sha256": "dce7117966c1c1b6f5ca9a7c56687826312c96e426c96434bca009ba95dcf4ad"
+    },
+    {
+     "kind": "yearly",
+     "year": 1962,
+     "sha256": "08fbd449a925da74954e369ef2a8325a8bc49581c149b07ab30c0cc183293462"
+    },
+    {
+     "kind": "monthly",
+     "year": 2055,
+     "month": 1,
+     "is_leap": false,
+     "meta": {
+      "month": 1,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "寅",
+      "label": "正月",
+      "start_date": "2055-01-28",
+      "end_date": "2055-02-25",
+      "doujun": "午",
+      "ming_branch": "午"
+     },
+     "sha256": "37201ca14a4360412e5177d67c1cffa1d6e4c90a1b7056bda6c7f1f2d915f410"
+    }
+   ]
+  },
+  {
+   "id": "r135_19161128T2333_男",
+   "args": {
+    "year": 1916,
+    "month": 11,
+    "day": 28,
+    "hour": 23,
+    "minute": 33,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丙辰己亥庚午丙子",
+    "lunar_date_str": "1916-11-04 23:33:00",
+    "true_solar_time": "1916-11-28 23:33:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "3a604420d10252b0e77e9ed01e470e5df022d6d39c7b7a5fe3e769b7469a4645",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1970,
+     "sha256": "e5d834653bbdcc691a643dd900bcd996735bd2c39d5b07bdd7d575df3debb838"
+    },
+    {
+     "kind": "yearly",
+     "year": 1921,
+     "sha256": "73bc2cc3ecb834ff89fb9998efb42697b8a01d192de4625dea65b140cb8392a5"
+    },
+    {
+     "kind": "monthly",
+     "year": 1957,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "甲",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "1957-03-31",
+      "end_date": "1957-04-29",
+      "doujun": "亥",
+      "ming_branch": "丑"
+     },
+     "sha256": "0f426eec3c86b2709779b4b030c99bd50804e4b1f045cabf8cc7c14044962efd"
+    }
+   ]
+  },
+  {
+   "id": "r136_19071019T1903_男",
+   "args": {
+    "year": 1907,
+    "month": 10,
+    "day": 19,
+    "hour": 19,
+    "minute": 3,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "丁未庚戌辛丑丁酉",
+    "lunar_date_str": "1907-09-13 17:08:46",
+    "true_solar_time": "1907-10-19 17:08:46",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "7be787f547bf96133cc118b8510901a217aa05300e93d6fe68fcf0e099929c93",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2011,
+     "sha256": "cb99e521845c9f523cc72ed71a81112c60b44a0d88eaf7137ff12e308be3710c"
+    },
+    {
+     "kind": "yearly",
+     "year": 1954,
+     "sha256": "d621233e608abe6963d08f01360904d00c11be414a4791bbf430747a148880b7"
+    },
+    {
+     "kind": "monthly",
+     "year": 1972,
+     "month": 5,
+     "is_leap": false,
+     "meta": {
+      "month": 5,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "午",
+      "label": "五月",
+      "start_date": "1972-06-11",
+      "end_date": "1972-07-10",
+      "doujun": "丑",
+      "ming_branch": "巳"
+     },
+     "sha256": "bfc7afcb95d46d14e82d46f6a7dc57e66b879042f4aca40282d28ddaa4b9ce52"
+    }
+   ]
+  },
+  {
+   "id": "r137_19090724T2329_男",
+   "args": {
+    "year": 1909,
+    "month": 7,
+    "day": 24,
+    "hour": 23,
+    "minute": 29,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "己酉辛未丙戌戊子",
+    "lunar_date_str": "1909-06-08 23:29:00",
+    "true_solar_time": "1909-07-24 23:29:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "3f4e9b27de66b1674b51e1e960ef0ec12dc8aa671586f91caba6ea9036150d58",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1993,
+     "sha256": "92681949e68ef404b88d80957af2bcb81c44543efafa945499524b91e39c2f36"
+    },
+    {
+     "kind": "yearly",
+     "year": 1959,
+     "sha256": "caaa78840525bd21a2564c5936d9f408fb5a6ce6c8d62cdfc5b2dd396cab5b44"
+    },
+    {
+     "kind": "monthly",
+     "year": 1953,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "1953-07-11",
+      "end_date": "1953-08-09",
+      "doujun": "子",
+      "ming_branch": "巳"
+     },
+     "sha256": "7ee54fb7bde9f115a80dd77f05c6ae00c2d79cc1e72a62992bb1892bdb8b0e4b"
+    }
+   ]
+  },
+  {
+   "id": "r138_19530818T0036_男",
+   "args": {
+    "year": 1953,
+    "month": 8,
+    "day": 18,
+    "hour": 0,
+    "minute": 36,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸巳庚申辛丑戊子",
+    "lunar_date_str": "1953-07-09 00:05:21",
+    "true_solar_time": "1953-08-18 00:05:21",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "531fdce716b3c0dbfc3ed527e368915dfc20f8f75c211123291c47c52c440d47",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1966,
+     "sha256": "8f7740786fcbadb0991ce3825d8f77bb1258eee5dd249169cebf1cf1fff591cc"
+    },
+    {
+     "kind": "yearly",
+     "year": 2065,
+     "sha256": "b801dfa4ae03fe1f32da0fdc00853a726621825f47ba8811d5cf40d33e02abe3"
+    },
+    {
+     "kind": "monthly",
+     "year": 2061,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "庚",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2061-12-12",
+      "end_date": "2062-01-10",
+      "doujun": "亥",
+      "ming_branch": "酉"
+     },
+     "sha256": "0051e106e166753650464825d2a7a7f299314e43564b619cfb7b4b5ea10b0879"
+    }
+   ]
+  },
+  {
+   "id": "r139_20010227T0044_女",
+   "args": {
+    "year": 2001,
+    "month": 2,
+    "day": 27,
+    "hour": 0,
+    "minute": 44,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "辛巳庚寅辛酉戊子",
+    "lunar_date_str": "2001-02-05 00:44:00",
+    "true_solar_time": "2001-02-27 00:44:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "de3384bbfceeb38f4bf32935b4e0c732fc079d69ce5acb948a4557d92196fd30",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2043,
+     "sha256": "2e5af860a0cc39efd789cfe6d41bdc0c71268249452a259df9a0456595ca57ce"
+    },
+    {
+     "kind": "yearly",
+     "year": 2065,
+     "sha256": "e94c1d3340cfcca7d23abf6c163c370ed0fc16ad512b555c5ff40288ec0a29fa"
+    },
+    {
+     "kind": "monthly",
+     "year": 2024,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "辛",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2024-07-06",
+      "end_date": "2024-08-03",
+      "doujun": "卯",
+      "ming_branch": "申"
+     },
+     "sha256": "32b36db9afd2613174f684b4aeec6215e0d37606a6e2cfe2cc9d869e2a7db1e0"
+    }
+   ]
+  },
+  {
+   "id": "r140_20250605T0012_女",
+   "args": {
+    "year": 2025,
+    "month": 6,
+    "day": 5,
+    "hour": 0,
+    "minute": 12,
+    "second": 0,
+    "coords": [
+     40.7128,
+     -74.006,
+     "America/New_York"
+    ]
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "乙巳壬午丙午戊子",
+    "lunar_date_str": "2025-05-10 23:17:33",
+    "true_solar_time": "2025-06-05 23:17:33",
+    "timezone": "America/New_York"
+   },
+   "natal_sha256": "0a6e44331d6abbfe8f0f396691d45dbf58fdc7dfb94caa32233a0f1f5e09cc78",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2078,
+     "sha256": "e9a13782b10f2b995b75074856b500915c00c430d530120199b8d8c92de8717a"
+    },
+    {
+     "kind": "yearly",
+     "year": 2111,
+     "sha256": "0daf36d4be1dfd8828d034b6fd131fcc22eec900c47a23e29755f9cfeff289ed"
+    },
+    {
+     "kind": "monthly",
+     "year": 2142,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2142-09-19",
+      "end_date": "2142-10-18",
+      "doujun": "戌",
+      "ming_branch": "巳"
+     },
+     "sha256": "33a28bc88e89d15706f6089233c2d533338d67269100931a472c7e220864e3a7"
+    }
+   ]
+  },
+  {
+   "id": "r141_19810503T0453_男",
+   "args": {
+    "year": 1981,
+    "month": 5,
+    "day": 3,
+    "hour": 4,
+    "minute": 53,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛酉壬辰辛巳庚寅",
+    "lunar_date_str": "1981-03-29 04:53:00",
+    "true_solar_time": "1981-05-03 04:53:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "f429d27efe0d62f3e06f98b09c17be9bd7750e1274783d96c66816ec455fcac4",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2003,
+     "sha256": "1a96842326c710d375674fb21372825bd5ce4fd691f64a18259fe8fde231112b"
+    },
+    {
+     "kind": "yearly",
+     "year": 2061,
+     "sha256": "b1df30f61bf01f845f038041ea4995aa9a71a814be8633c98935cff51a576dad"
+    },
+    {
+     "kind": "monthly",
+     "year": 2066,
+     "month": 6,
+     "is_leap": false,
+     "meta": {
+      "month": 6,
+      "is_leap": false,
+      "stem": "乙",
+      "branch": "未",
+      "label": "六月",
+      "start_date": "2066-07-22",
+      "end_date": "2066-08-20",
+      "doujun": "戌",
+      "ming_branch": "卯"
+     },
+     "sha256": "7209c86bd9fcd8ad8791c71ddc3d0c07e729753e43b358fd99362d4930f94263"
+    }
+   ]
+  },
+  {
+   "id": "r142_20211008T2311_男",
+   "args": {
+    "year": 2021,
+    "month": 10,
+    "day": 8,
+    "hour": 23,
+    "minute": 11,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "辛丑戊戌己丑乙亥",
+    "lunar_date_str": "2021-09-03 21:13:55",
+    "true_solar_time": "2021-10-08 21:13:55",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "0ba1870eb1d74710b679642b8db0308e84795cfde11ea1c12d8d5898c2d8c08b",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2049,
+     "sha256": "4097628943c6ed46ee8397431a70a31558e8ce0cdaa99187dc921764efc69804"
+    },
+    {
+     "kind": "yearly",
+     "year": 2141,
+     "sha256": "a653527854de8293d2c6cfe34bd9cbc0bfa88cd76e2a075de1ae974fbb3ccec9"
+    },
+    {
+     "kind": "monthly",
+     "year": 2127,
+     "month": 12,
+     "is_leap": false,
+     "meta": {
+      "month": 12,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "丑",
+      "label": "腊月",
+      "start_date": "2128-01-02",
+      "end_date": "2128-01-31",
+      "doujun": "寅",
+      "ming_branch": "丑"
+     },
+     "sha256": "6cd7ca13e644a63e2363bbe41d90c320aec9cf9defbee3de9888d9360fe64f73"
+    }
+   ]
+  },
+  {
+   "id": "r143_19250625T2316_男",
+   "args": {
+    "year": 1925,
+    "month": 6,
+    "day": 25,
+    "hour": 23,
+    "minute": 16,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "乙丑壬午辛巳戊子",
+    "lunar_date_str": "1925-05-05 23:16:00",
+    "true_solar_time": "1925-06-25 23:16:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "f8da173ef1a2799be81b8155a627b505d30f5924a6578e86f77ab44112c91785",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1929,
+     "sha256": "f7371943cc4ba04236eee7d63232bb01abe8f3a74da599fca957eda12983603c"
+    },
+    {
+     "kind": "yearly",
+     "year": 2036,
+     "sha256": "6ec62e6065ae5ce2c9fad57260303960eac0bf4a7f470636eb78f4352aa42ab5"
+    },
+    {
+     "kind": "monthly",
+     "year": 2034,
+     "month": 3,
+     "is_leap": false,
+     "meta": {
+      "month": 3,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "辰",
+      "label": "三月",
+      "start_date": "2034-04-19",
+      "end_date": "2034-05-17",
+      "doujun": "戌",
+      "ming_branch": "子"
+     },
+     "sha256": "e22ef3b0035b706f6f0aac37552f315db7b7da2a2e17d718931684ded6e43517"
+    }
+   ]
+  },
+  {
+   "id": "r144_19651006T2322_男",
+   "args": {
+    "year": 1965,
+    "month": 10,
+    "day": 6,
+    "hour": 23,
+    "minute": 22,
+    "second": 0,
+    "coords": [
+     23.1291,
+     113.2644,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "乙巳乙酉甲午甲子",
+    "lunar_date_str": "1965-09-12 23:06:54",
+    "true_solar_time": "1965-10-06 23:06:54",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "267a129bcf4a1ceab9623c5139310bee64f817a0f7eb2680fee46bba3824bcac",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2018,
+     "sha256": "cadd66d0574c79a5c3fd77a890d302b3cf809ef82cfb7d07ab8cbc8dd1fdd17f"
+    },
+    {
+     "kind": "yearly",
+     "year": 1998,
+     "sha256": "3462d8e42c1562228f2b25f924a7784e1c56f6925cdefc9aad2ddd8a139a421a"
+    },
+    {
+     "kind": "monthly",
+     "year": 2075,
+     "month": 9,
+     "is_leap": false,
+     "meta": {
+      "month": 9,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "戌",
+      "label": "九月",
+      "start_date": "2075-10-10",
+      "end_date": "2075-11-07",
+      "doujun": "亥",
+      "ming_branch": "未"
+     },
+     "sha256": "ad5152892d99a42a8d2b452a76ffa2d5c079f11c452bc7a93e814e2033c0be58"
+    }
+   ]
+  },
+  {
+   "id": "r145_19860615T2319_女",
+   "args": {
+    "year": 1986,
+    "month": 6,
+    "day": 15,
+    "hour": 23,
+    "minute": 19,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "女",
+   "calendar": {
+    "bazi": "丙寅甲午辛卯戊子",
+    "lunar_date_str": "1986-05-09 23:19:00",
+    "true_solar_time": "1986-06-15 23:19:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "17d124fb9eef892c605d6554e543f28cadac0f4884b9779a17c89db64490cefa",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1991,
+     "sha256": "8e37638cbe0383efc0044f5922b42b5e05ba949773c1fa78553ed294faabf127"
+    },
+    {
+     "kind": "yearly",
+     "year": 2002,
+     "sha256": "bcc4859b1070c65433f6a9382b082fdc5ca0d9c08204f805d5736d36fe467d70"
+    },
+    {
+     "kind": "monthly",
+     "year": 2079,
+     "month": 8,
+     "is_leap": false,
+     "meta": {
+      "month": 8,
+      "is_leap": false,
+      "stem": "癸",
+      "branch": "酉",
+      "label": "八月",
+      "start_date": "2079-08-27",
+      "end_date": "2079-09-24",
+      "doujun": "未",
+      "ming_branch": "寅"
+     },
+     "sha256": "cd57893dd6e10b068714fee90ea02002bb87a018dfece7b02cbe5eff08b69bc6"
+    }
+   ]
+  },
+  {
+   "id": "r146_20220902T0734_男",
+   "args": {
+    "year": 2022,
+    "month": 9,
+    "day": 2,
+    "hour": 7,
+    "minute": 34,
+    "second": 0,
+    "coords": [
+     39.9042,
+     116.4074,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "壬寅戊申戊午丙辰",
+    "lunar_date_str": "2022-08-07 07:19:49",
+    "true_solar_time": "2022-09-02 07:19:49",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "357794a4b4d9d924393346b35f27a070fd71d3f8f7efd9bc2a5a89ba0040129d",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2112,
+     "sha256": "24116090f92b254ca06095c56273e5c1ec959ede12d95a6611bbd366f5317986"
+    },
+    {
+     "kind": "yearly",
+     "year": 2144,
+     "sha256": "4113304f205808e971292db770e4875cac09fcfbb1f3018b9bedbc61b7872cb4"
+    },
+    {
+     "kind": "monthly",
+     "year": 2050,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "戊",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "2050-12-14",
+      "end_date": "2051-01-12",
+      "doujun": "卯",
+      "ming_branch": "丑"
+     },
+     "sha256": "41c023915d5cdaaf01d08dfcea20d638dbca6313974e55697065218eaf250c74"
+    }
+   ]
+  },
+  {
+   "id": "r147_19580801T0056_男",
+   "args": {
+    "year": 1958,
+    "month": 8,
+    "day": 1,
+    "hour": 0,
+    "minute": 56,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "戊戌己未庚戌丙子",
+    "lunar_date_str": "1958-06-16 00:56:00",
+    "true_solar_time": "1958-08-01 00:56:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "65f31ac7ff34949188af7f2d021af47ec59d9003b628ecddb9c55b7fcfc063c7",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 2047,
+     "sha256": "5f77999676a9d1238206cdc45c443e0f168644a48441c251d5f70b2292037049"
+    },
+    {
+     "kind": "yearly",
+     "year": 1975,
+     "sha256": "5bbfe01b625a7ced646f07277521d2da46d42a69cc7704c5c1fc215802d666a9"
+    },
+    {
+     "kind": "monthly",
+     "year": 1964,
+     "month": 7,
+     "is_leap": false,
+     "meta": {
+      "month": 7,
+      "is_leap": false,
+      "stem": "壬",
+      "branch": "申",
+      "label": "七月",
+      "start_date": "1964-08-08",
+      "end_date": "1964-09-05",
+      "doujun": "亥",
+      "ming_branch": "巳"
+     },
+     "sha256": "6105648037a49af92ddef49ce87b7c3453106a76dd3b2f0f893dff3456aadaa3"
+    }
+   ]
+  },
+  {
+   "id": "r148_19130625T2235_男",
+   "args": {
+    "year": 1913,
+    "month": 6,
+    "day": 25,
+    "hour": 22,
+    "minute": 35,
+    "second": 0,
+    "coords": [
+     43.8256,
+     87.6168,
+     "Asia/Shanghai"
+    ]
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "癸丑戊午丁丑庚戌",
+    "lunar_date_str": "1913-05-21 20:23:41",
+    "true_solar_time": "1913-06-25 20:23:41",
+    "timezone": "Asia/Shanghai"
+   },
+   "natal_sha256": "7a8ce906df640954fb43b06ef0ff4544ea1fa80a4876278f145592fd5f1570dc",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1974,
+     "sha256": "43b0e95ee64cf708dc9c842805c0c4c029bd8169b3763b06572123cd1cde6cca"
+    },
+    {
+     "kind": "yearly",
+     "year": 1923,
+     "sha256": "76145ad66b9a1e90e49bd2b5b9895f67aa8a6e4b8417602a543d5faef09cfeea"
+    },
+    {
+     "kind": "monthly",
+     "year": 1994,
+     "month": 11,
+     "is_leap": false,
+     "meta": {
+      "month": 11,
+      "is_leap": false,
+      "stem": "丙",
+      "branch": "子",
+      "label": "冬月",
+      "start_date": "1994-12-03",
+      "end_date": "1994-12-31",
+      "doujun": "辰",
+      "ming_branch": "寅"
+     },
+     "sha256": "39450f5e38ea75b6d9c50499a8c27a9c13e7bd9fb3e0ec904dcb50f0e463a984"
+    }
+   ]
+  },
+  {
+   "id": "r149_19040917T2334_男",
+   "args": {
+    "year": 1904,
+    "month": 9,
+    "day": 17,
+    "hour": 23,
+    "minute": 34,
+    "second": 0,
+    "coords": null
+   },
+   "gender": "男",
+   "calendar": {
+    "bazi": "甲辰癸酉乙卯丙子",
+    "lunar_date_str": "1904-08-08 23:34:00",
+    "true_solar_time": "1904-09-17 23:34:00",
+    "timezone": "Etc/GMT-8"
+   },
+   "natal_sha256": "3318012658d052e60caa216d53412ef5ec34ecf3d152f040f514481f7e63acf2",
+   "views": [
+    {
+     "kind": "yearly",
+     "year": 1951,
+     "sha256": "89ac8db7428ce2ad013ada4c0a3b86e374ccc3fcb076185ce88b05e784f48b4c"
+    },
+    {
+     "kind": "yearly",
+     "year": 1916,
+     "sha256": "80b6570bd15ffb5f2b2919ccee90c25f61df48e3251af7d86c486afc336f7725"
+    },
+    {
+     "kind": "monthly",
+     "year": 1944,
+     "month": 4,
+     "is_leap": false,
+     "meta": {
+      "month": 4,
+      "is_leap": false,
+      "stem": "己",
+      "branch": "巳",
+      "label": "四月",
+      "start_date": "1944-04-23",
+      "end_date": "1944-05-21",
+      "doujun": "丑",
+      "ming_branch": "辰"
+     },
+     "sha256": "a28dafc8c0f7745f6ab1b936eb2241d715ca04bdda97cb28165f024f97e4a62d"
+    }
+   ]
+  }
+ ]
+}

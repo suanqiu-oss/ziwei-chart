@@ -1,0 +1,68 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        python-version: ["3.10", "3.11", "3.12", "3.13"]
+    env:
+      # True-solar-time cases must run in CI, never skip silently.
+      ZIWEI_CHART_REQUIRE_SOLAR: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install
+        run: python -m pip install -e ".[solar,dev]"
+      - name: Cache DE421 ephemeris
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ziwei-chart
+          key: de421-ephemeris-v1
+      - name: Fetch DE421 ephemeris
+        run: python -c "from ziwei_chart.solar_time import _load_ephemeris; _load_ephemeris(None)"
+      - name: Test
+        run: python -m pytest -q
+
+  test-without-solar:
+    # The base install (no skyfield) must still import and cast plain charts.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: python -m pip install -e ".[dev]"
+      - name: Test
+        run: python -m pytest -q
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build sdist and wheel
+        run: |
+          python -m pip install build
+          python -m build
+      - name: Check the wheel ships license, rule tables and schema
+        run: |
+          python - <<'PY'
+          import glob, zipfile
+          names = zipfile.ZipFile(glob.glob("dist/*.whl")[0]).namelist()
+          for required in ("LICENSE", "ziwei_chart/data/sihua_config.json",
+                           "ziwei_chart/schema/ziwei_chart.v1.json"):
+              assert any(n.endswith(required) for n in names), required
+          PY

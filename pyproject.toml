@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ziwei-chart"
+version = "0.1.0"
+description = "Deterministic Zi Wei Dou Shu (紫微斗数) natal chart casting, outputting versioned JSON"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+keywords = ["ziwei", "doushu", "astrology", "chart", "purple-star"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+dependencies = [
+    "lunar-python>=1.3",
+    "tzdata; platform_system == 'Windows'",
+]
+
+[project.optional-dependencies]
+solar = ["skyfield>=1.45"]
+dev = ["pytest>=7", "jsonschema>=4"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ziwei_chart = ["data/*.json", "schema/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

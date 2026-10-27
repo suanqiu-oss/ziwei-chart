@@ -1,0 +1,365 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/auwc/ziwei-chart/main/src/ziwei_chart/schema/ziwei_chart.v1.json",
+  "title": "ziwei_chart.v1",
+  "description": "Deterministic Zi Wei Dou Shu chart output (v1): natal charts and decennial/yearly/monthly horoscope views",
+  "type": "object",
+  "required": [
+    "schema",
+    "input",
+    "palaces",
+    "name_index",
+    "decennial_age_index",
+    "decennial_year_index"
+  ],
+  "properties": {
+    "schema": {
+      "const": "ziwei_chart.v1"
+    },
+    "input": {
+      "type": "object",
+      "description": "Normalized inputs and calendar receipt",
+      "properties": {
+        "bazi": {
+          "type": "string",
+          "description": "四柱八字，8 字"
+        },
+        "lunar_date_str": {
+          "type": "string",
+          "description": "YYYY-MM-DD HH:MM:SS，农历日期 + 真太阳时刻"
+        },
+        "gender": {
+          "enum": [
+            "男",
+            "女"
+          ]
+        },
+        "datetime": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "ISO-8601 民用时刻；from_calendar 路径为 null"
+        },
+        "true_solar_time": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "YYYY-MM-DD HH:MM:SS 真太阳时；无坐标时等于民用时刻"
+        },
+        "timezone": {
+          "type": "string"
+        },
+        "coordinates": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "number"
+          },
+          "description": "[纬度, 经度]"
+        },
+        "calendar_rules": {
+          "type": "object",
+          "properties": {
+            "day_rule": {
+              "enum": [
+                "midnight",
+                "zi-early",
+                "solar-midnight"
+              ]
+            },
+            "time_rule": {
+              "enum": [
+                "midnight",
+                "prev-day",
+                "next-day"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "palaces": {
+      "type": "array",
+      "minItems": 12,
+      "maxItems": 12,
+      "items": {
+        "$ref": "#/$defs/palace"
+      }
+    },
+    "name_index": {
+      "type": "object",
+      "description": "宫名 -> palace 下标",
+      "additionalProperties": {
+        "type": "integer"
+      }
+    },
+    "decennial_age_index": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/decennialEntry"
+      }
+    },
+    "decennial_year_index": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/decennialEntry"
+      }
+    },
+    "horoscope": {
+      "type": "object",
+      "description": "仅大限/流年/流月视图携带；本命盘没有此字段",
+      "required": [
+        "mode",
+        "year",
+        "month",
+        "is_leap",
+        "age",
+        "age_range",
+        "year_range",
+        "monthly"
+      ],
+      "properties": {
+        "mode": {
+          "enum": [
+            "decennial",
+            "yearly",
+            "monthly"
+          ]
+        },
+        "year": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "month": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1,
+          "maximum": 12
+        },
+        "is_leap": {
+          "type": "boolean"
+        },
+        "age": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "age_range": {
+          "type": "string",
+          "description": "所在大限的年龄段，如 25-34"
+        },
+        "year_range": {
+          "type": "string",
+          "description": "所在大限的年份段，如 2018-2027"
+        },
+        "monthly": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "description": "流月斗君元数据；非流月视图为 null",
+          "properties": {
+            "month": {
+              "type": "integer"
+            },
+            "is_leap": {
+              "type": "boolean"
+            },
+            "stem": {
+              "type": "string"
+            },
+            "branch": {
+              "type": "string"
+            },
+            "label": {
+              "type": "string"
+            },
+            "start_date": {
+              "type": "string"
+            },
+            "end_date": {
+              "type": "string"
+            },
+            "doujun": {
+              "type": "string"
+            },
+            "ming_branch": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "decennialEntry": {
+      "type": "object",
+      "required": [
+        "start",
+        "end",
+        "palace_index",
+        "palace_name",
+        "stem"
+      ],
+      "properties": {
+        "start": {
+          "type": "integer"
+        },
+        "end": {
+          "type": "integer",
+          "description": "含端点"
+        },
+        "palace_index": {
+          "type": "integer"
+        },
+        "palace_name": {
+          "type": "string"
+        },
+        "stem": {
+          "type": "string"
+        }
+      }
+    },
+    "palace": {
+      "type": "object",
+      "required": [
+        "stem",
+        "branch",
+        "name",
+        "decennial_name",
+        "year_name",
+        "month_name",
+        "original",
+        "three_fang_names",
+        "opposite_names",
+        "decennial_cycl",
+        "decennial_cycl_year_range",
+        "opposite_branch",
+        "sanfang_branches"
+      ],
+      "properties": {
+        "stem": {
+          "type": "string"
+        },
+        "branch": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "decennial_name": {
+          "type": "string"
+        },
+        "year_name": {
+          "type": "string"
+        },
+        "month_name": {
+          "type": "string"
+        },
+        "original": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/star"
+          }
+        },
+        "three_fang_names": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "opposite_names": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "decennial_cycl": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          },
+          "description": "[起岁, 止岁]"
+        },
+        "decennial_cycl_year_range": {
+          "type": "array",
+          "items": {
+            "type": "integer"
+          },
+          "description": "[起年, 止年+1)"
+        },
+        "opposite_branch": {
+          "type": "string"
+        },
+        "sanfang_branches": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "star": {
+      "type": "object",
+      "required": [
+        "name",
+        "level",
+        "palace",
+        "branch",
+        "time_type",
+        "transformation",
+        "self_transformation",
+        "decennial_transformation",
+        "year_transformation",
+        "month_transformation"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "level": {
+          "enum": [
+            "甲",
+            "乙",
+            ""
+          ]
+        },
+        "palace": {
+          "type": "string"
+        },
+        "branch": {
+          "type": "string"
+        },
+        "time_type": {
+          "type": "string"
+        },
+        "transformation": {
+          "type": "string",
+          "description": "生年四化：禄/权/科/忌 或空"
+        },
+        "self_transformation": {
+          "type": "string",
+          "description": "宫干自化"
+        },
+        "decennial_transformation": {
+          "type": "string"
+        },
+        "year_transformation": {
+          "type": "string"
+        },
+        "month_transformation": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
