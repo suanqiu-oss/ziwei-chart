@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/auwc/ziwei-chart/main/src/ziwei_chart/schema/ziwei_chart.v1.json",
+  "$id": "https://raw.githubusercontent.com/suanqiu-oss/ziwei-chart/main/src/ziwei_chart/schema/ziwei_chart.v1.json",
   "title": "ziwei_chart.v1",
   "description": "Deterministic Zi Wei Dou Shu chart output (v1): natal charts and decennial/yearly/monthly horoscope views",
   "type": "object",
