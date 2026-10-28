@@ -78,4 +78,4 @@ chart = cast_chart(BirthInput(
 
 ## 许可证
 
-Apache-2.0，全文见 `LICENSE`。规则表为项目自行整理，不含第三方代码。
+Apache-2.0，全文见 `LICENSE`。规则表（四化、五虎遁、纳音、主星安星表）整理自公开资料，属传统排盘规则；不含第三方代码。
