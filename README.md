@@ -1,17 +1,22 @@
 # ziwei-chart
 
+[![PyPI](https://img.shields.io/pypi/v/ziwei-chart)](https://pypi.org/project/ziwei-chart/)
+[![Python](https://img.shields.io/pypi/pyversions/ziwei-chart)](https://pypi.org/project/ziwei-chart/)
+[![CI](https://github.com/suanqiu-oss/ziwei-chart/actions/workflows/ci.yml/badge.svg)](https://github.com/suanqiu-oss/ziwei-chart/actions/workflows/ci.yml)
+[![License](https://img.shields.io/pypi/l/ziwei-chart)](https://github.com/suanqiu-oss/ziwei-chart/blob/main/LICENSE)
+
 确定性紫微斗数排盘库：输入出生时刻（可带经纬度换算真太阳时），输出生辰十二宫
 安星、大限索引与流年/流月视图的带版本号 JSON（`ziwei_chart.v1`）。
 不含任何 AI 解读与星曜释义文本。
 
 纯 Python；日历后端为 [lunar-python](https://github.com/6tail/lunar-python)。
-真太阳时（天文中天法）是可选依赖，需 `pip install ziwei-chart[solar]`。
+真太阳时（天文中天法）是可选依赖，需 `pip install "ziwei-chart[solar]"`。
 
 ## 安装
 
 ```bash
 pip install ziwei-chart          # 基础（民用时间排盘）
-pip install ziwei-chart[solar]   # + 真太阳时（skyfield）
+pip install "ziwei-chart[solar]" # + 真太阳时（skyfield）
 ```
 
 ## 使用
